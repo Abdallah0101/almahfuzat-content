@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+import { writeFile, rename } from 'node:fs/promises';
+import path from 'node:path';
+import { buildManifest } from './content-lib.mjs';
+
+try {
+  const manifest = await buildManifest();
+  const destination = path.join(process.cwd(), 'docs', 'manifest.json');
+  const temporary = `${destination}.tmp`;
+  await writeFile(temporary, `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
+  await rename(temporary, destination);
+  console.log(`Catalog version ${manifest.catalog_version}: ${manifest.poems.length} poem(s).`);
+} catch (error) {
+  console.error(error.message);
+  process.exitCode = 1;
+}

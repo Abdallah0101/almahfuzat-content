@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://almahfuzat.local/schemas/manifest.schema.json",
+  "title": "Mahfuzat catalog manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "catalog_version", "updated_at", "poems"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "catalog_version": { "type": "integer", "minimum": 0 },
+    "updated_at": { "type": "string", "format": "date-time" },
+    "poems": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "title", "author", "science", "verse_count", "path", "revision", "sha256", "is_complete"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "title": { "type": "string", "minLength": 1 },
+          "author": { "type": "string", "minLength": 1 },
+          "science": { "type": "string", "minLength": 1 },
+          "verse_count": { "type": "integer", "minimum": 0 },
+          "path": { "type": "string", "pattern": "^poems/[a-z0-9-]+\\.json$" },
+          "revision": { "type": "integer", "minimum": 1 },
+          "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+          "is_complete": { "type": "boolean" }
+        }
+      }
+    }
+  }
+}

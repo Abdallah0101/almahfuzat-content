@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://almahfuzat.local/schemas/poem.schema.json",
+  "title": "Mahfuzat poem",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "id", "title", "author", "science", "source", "is_complete", "revision", "chapters", "verses"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 80 },
+    "title": { "type": "string", "minLength": 1, "maxLength": 300 },
+    "author": { "type": "string", "minLength": 1, "maxLength": 300 },
+    "description": { "type": "string", "maxLength": 5000 },
+    "science": { "type": "string", "minLength": 1, "maxLength": 100 },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1, "maxLength": 1000 },
+        "url": { "type": "string", "format": "uri", "maxLength": 2000 },
+        "notes": { "type": "string", "maxLength": 5000 }
+      }
+    },
+    "is_complete": { "type": "boolean" },
+    "revision": { "type": "integer", "minimum": 1 },
+    "chapters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "title"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 100 },
+          "title": { "type": "string", "minLength": 1, "maxLength": 500 },
+          "number": { "type": "integer", "minimum": 1 }
+        }
+      }
+    },
+    "verses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "number", "first_hemistich", "second_hemistich", "text"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 120 },
+          "number": { "type": "integer", "minimum": 1 },
+          "first_hemistich": { "type": "string", "minLength": 1, "maxLength": 5000 },
+          "second_hemistich": { "type": "string", "minLength": 1, "maxLength": 5000 },
+          "text": { "type": "string", "minLength": 3, "maxLength": 10001 },
+          "chapter_id": { "type": "string", "maxLength": 100 }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+#!/usr/bin/env node
+import path from 'node:path';
+import { poemEntries, readJson, validateManifest } from './content-lib.mjs';
+
+try {
+  const poems = await poemEntries();
+  const manifest = await readJson(path.join(process.cwd(), 'docs', 'manifest.json'));
+  const errors = await validateManifest(manifest);
+  if (errors.length) throw new Error(errors.join('\n'));
+  console.log(`Validated ${poems.length} poem(s), catalog version ${manifest.catalog_version}.`);
+} catch (error) {
+  console.error(error.message);
+  process.exitCode = 1;
+}

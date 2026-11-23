@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "catalog_version": 1,
+  "updated_at": "2026-11-23T02:21:14.636Z",
+  "poems": [
+    {
+      "id": "mahfuzat-demo",
+      "title": "نموذج المحفوظات التجريبي",
+      "author": "نص اختباري غير علمي",
+      "science": "اختبار",
+      "verse_count": 10,
+      "path": "poems/mahfuzat-demo.json",
+      "revision": 1,
+      "sha256": "dc0c6528378f741db3a66e33c48135c9150134a21244cec78a6889334e1ce37a",
+      "is_complete": false
+    }
+  ]
+}
