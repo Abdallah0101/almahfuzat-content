@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "catalog_version": 3,
-  "updated_at": "2026-11-23T20:59:54.589Z",
+  "catalog_version": 5,
+  "updated_at": "2026-11-23T21:53:31.663Z",
   "poems": [
     {
       "id": "alfiyya-ibn-malik",
@@ -23,6 +23,94 @@
       "path": "poems/mahfuzat-demo.json",
       "revision": 1,
       "sha256": "dc0c6528378f741db3a66e33c48135c9150134a21244cec78a6889334e1ce37a",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-amr-ibn-kulthum",
+      "title": "معلقة عمرو بن كلثوم: ألا هبي بصحنك فاصبحينا",
+      "author": "عمرو بن كلثوم بن علقمة التغلبي (الجاهلي)",
+      "science": "الشعر الجاهلي",
+      "verse_count": 103,
+      "path": "poems/muallaqa-amr-ibn-kulthum.json",
+      "revision": 1,
+      "sha256": "c230e0962d0f8d812472905634a2237213466389e9e422c673eaa3ce489f5ce0",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-antara",
+      "title": "معلقة عنترة بن شداد: هلا سألت الخيل يا ابنة مالك",
+      "author": "عنترة بن شداد العبسي (الجاهلي)",
+      "science": "الشعر الجاهلي",
+      "verse_count": 75,
+      "path": "poems/muallaqa-antara.json",
+      "revision": 1,
+      "sha256": "94dd5c369dc4b547aaa31c78868e9a2cb1924964834e890275209f3a819aa981",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-harith",
+      "title": "معلقة الحارث بن حلزة اليشكري: آذنتنا ببينها أسماء",
+      "author": "الحارث بن حلزة بن أصرم اليشكري البكري (الجاهلي)",
+      "science": "الشعر الجاهلي",
+      "verse_count": 82,
+      "path": "poems/muallaqa-harith.json",
+      "revision": 1,
+      "sha256": "4ca0ea2d0fe68bf903a052aa83167a7c038438683536b8a2d7c10b5b0fd689ea",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-imru-qays",
+      "title": "معلقة امرئ القيس: قفا نبك من ذكرى حبيب ومنزل",
+      "author": "امرؤ القيس بن حجر الكندي (الجاهلي، توفي قبل البعثة بنحو خمسين سنة)",
+      "science": "الشعر الجاهلي",
+      "verse_count": 78,
+      "path": "poems/muallaqa-imru-qays.json",
+      "revision": 1,
+      "sha256": "91c7cbc3a2e6653b21088f4c26d2eb9b43925eb134c8648b5af5ce2b8ee1a59e",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-labid",
+      "title": "معلقة لبيد بن ربيعة: عفت الديار محلها فمقامها",
+      "author": "لبيد بن ربيعة العامري (ت 41هـ/661م)",
+      "science": "الشعر الجاهلي",
+      "verse_count": 88,
+      "path": "poems/muallaqa-labid.json",
+      "revision": 1,
+      "sha256": "c26061dab53921242765ac65029d2785773079ede54362410cfd02127ae5a3eb",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-tarafa",
+      "title": "معلقة طرفة بن العبد: لخولة أطلال ببرقة ثهمد",
+      "author": "طرفة بن العبد البكري (ت ق 2هـ/65م تقريبا) — والقصيدة تُنسب أيضا إلى كثير عزة",
+      "science": "الشعر الجاهلي",
+      "verse_count": 104,
+      "path": "poems/muallaqa-tarafa.json",
+      "revision": 1,
+      "sha256": "062f288c19b3ed4adc5550bb7a32ef9c97e5462782846865458d902ffa6df7b3",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-ubayd",
+      "title": "معلقة عبيد بن الأبرص: أقفر من أهله ملحوب",
+      "author": "عبيد بن الأبرص الأسدي (الجاهلي)",
+      "science": "الشعر الجاهلي",
+      "verse_count": 46,
+      "path": "poems/muallaqa-ubayd.json",
+      "revision": 1,
+      "sha256": "6a39775859e44e276c71e244e1bbc04516a449a493e6f04a14ad7cfbc582bb3f",
+      "is_complete": false
+    },
+    {
+      "id": "muallaqa-zuhayr",
+      "title": "معلقة زهير بن أبي سلمى: أمن أم أوفى دمنة لم تكلمح",
+      "author": "زهير بن أبي سلمى المزني (مات بعد فتح مكة في خلافة عمر)",
+      "science": "الشعر الجاهلي",
+      "verse_count": 62,
+      "path": "poems/muallaqa-zuhayr.json",
+      "revision": 1,
+      "sha256": "4fe34c930948430aa71732c49351c42a00951788c431b297e2294a029e8ab91c",
       "is_complete": false
     },
     {

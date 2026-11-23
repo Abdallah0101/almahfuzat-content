@@ -1,0 +1,624 @@
+{
+  "schema_version": 1,
+  "id": "muallaqa-antara",
+  "title": "معلقة عنترة بن شداد: هلا سألت الخيل يا ابنة مالك",
+  "author": "عنترة بن شداد العبسي (الجاهلي)",
+  "description": "المعلقة على بحر الخفيف. نسخة من ويكي مصدر مع إصلاحين موثقين: (1) حذف سطر افتتاحي ملصق بالخطأ على الصفحة («هل غادر الشعراء من متردم أم هل عرفت الدار بعد توهم» — وهو من لامية الشنفرى)؛ (2) إعادة افتتاح القصيدة ببيتها المتفق عليه في دواوين عنترة («هلا سألت الخيل...») قبل بيت «يا دار عبلة...»، وحذف النسخة المكررة من بيت الافتتاح داخل النص.",
+  "science": "الشعر الجاهلي",
+  "source": {
+    "name": "ويكي مصدر: معلقة عنترة بن شداد",
+    "url": "https://ar.wikisource.org/wiki/%D9%85%D8%B9%D9%84%D9%82%D8%A9_%D8%B9%D9%86%D8%AA%D8%B1%D8%A9_%D8%A8%D9%86_%D8%B4%D8%AF%D8%A7%D8%AF",
+    "notes": "استُوردت آليا في 2026-11-24 مع التدخلين المذكورين في الوصف. الشواهد: افتتاح «هلا سألت الخيل» هو المتفق عليه في شرح الزوزني وديوان عنترة، وترتيب الأبيات الناتج متصل. is_complete=false إلى حين مراجعة."
+  },
+  "is_complete": false,
+  "revision": 1,
+  "chapters": [
+    {
+      "id": "qasida",
+      "title": "هلا سألت الخيل يا ابنة مالك",
+      "number": 1
+    }
+  ],
+  "verses": [
+    {
+      "id": "muallaqa-antara-001",
+      "number": 1,
+      "first_hemistich": "هَلا سَأَلتِ الخَيلَ يا ابنَةَ مالِكٍ",
+      "second_hemistich": "إِذا رَنَت إِلَيكِ أَرجاءُ مالِكِ",
+      "text": "هَلا سَأَلتِ الخَيلَ يا ابنَةَ مالِكٍ\nإِذا رَنَت إِلَيكِ أَرجاءُ مالِكِ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-002",
+      "number": 2,
+      "first_hemistich": "وَما لِيَّ وقَد طَوى البِلادَ كُلَّها",
+      "second_hemistich": "شِمالِيَ وَيَميني لَم أَزَل مُتَيَّمِ",
+      "text": "وَما لِيَّ وقَد طَوى البِلادَ كُلَّها\nشِمالِيَ وَيَميني لَم أَزَل مُتَيَّمِ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-003",
+      "number": 3,
+      "first_hemistich": "يا دار عبلة بالجواء تكلمي",
+      "second_hemistich": "و عمي صباحاً دار عبلة و اسلمي",
+      "text": "يا دار عبلة بالجواء تكلمي\nو عمي صباحاً دار عبلة و اسلمي",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-004",
+      "number": 4,
+      "first_hemistich": "فوقفت فيها ناقتي و كأنها",
+      "second_hemistich": "فدنٌ لأقضي حاجة المتلوم",
+      "text": "فوقفت فيها ناقتي و كأنها\nفدنٌ لأقضي حاجة المتلوم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-005",
+      "number": 5,
+      "first_hemistich": "و تحل عبلة بالجواء و أهلنا",
+      "second_hemistich": "بالحزن فالصمان فالمتثلم",
+      "text": "و تحل عبلة بالجواء و أهلنا\nبالحزن فالصمان فالمتثلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-006",
+      "number": 6,
+      "first_hemistich": "حييت من طللٍ تقادم عهده",
+      "second_hemistich": "أقوى و أقفر بعد أم الهيثم",
+      "text": "حييت من طللٍ تقادم عهده\nأقوى و أقفر بعد أم الهيثم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-007",
+      "number": 7,
+      "first_hemistich": "حلت بأرض الزائرين فأصبحت",
+      "second_hemistich": "عسراً علي طلابك ابنة محرمٍ",
+      "text": "حلت بأرض الزائرين فأصبحت\nعسراً علي طلابك ابنة محرمٍ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-008",
+      "number": 8,
+      "first_hemistich": "علقتها عرضاً و أقتل قومها",
+      "second_hemistich": "زعماً لعمر أبيك ليس بمزعم",
+      "text": "علقتها عرضاً و أقتل قومها\nزعماً لعمر أبيك ليس بمزعم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-009",
+      "number": 9,
+      "first_hemistich": "و لقد نزلت فلا تظني غيره",
+      "second_hemistich": "مني بمنزلة المحب المكرم",
+      "text": "و لقد نزلت فلا تظني غيره\nمني بمنزلة المحب المكرم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-010",
+      "number": 10,
+      "first_hemistich": "كيف المزار و قد تربع أهلها",
+      "second_hemistich": "بعنيزتين و أهلنا بالغيلم",
+      "text": "كيف المزار و قد تربع أهلها\nبعنيزتين و أهلنا بالغيلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-011",
+      "number": 11,
+      "first_hemistich": "إن كنت أزمعت الفراق فإنما",
+      "second_hemistich": "زمت ركابكم بليلٍ مظلم",
+      "text": "إن كنت أزمعت الفراق فإنما\nزمت ركابكم بليلٍ مظلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-012",
+      "number": 12,
+      "first_hemistich": "ما راعني إلا حمولة أهلها",
+      "second_hemistich": "وسط الديار تسف حب الخمخم",
+      "text": "ما راعني إلا حمولة أهلها\nوسط الديار تسف حب الخمخم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-013",
+      "number": 13,
+      "first_hemistich": "فيها اثنتان و أربعون حلوبةً",
+      "second_hemistich": "سوداً كخافية الغراب الأسحم",
+      "text": "فيها اثنتان و أربعون حلوبةً\nسوداً كخافية الغراب الأسحم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-014",
+      "number": 14,
+      "first_hemistich": "إذ تستبيك بذي غروبٍ واضحٍ",
+      "second_hemistich": "عذبٍ مقبله لذيذ المطعم",
+      "text": "إذ تستبيك بذي غروبٍ واضحٍ\nعذبٍ مقبله لذيذ المطعم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-015",
+      "number": 15,
+      "first_hemistich": "و كأن فارة تاجرٍ بقسيمةٍ",
+      "second_hemistich": "سبقت عوارضها إليك من الفم",
+      "text": "و كأن فارة تاجرٍ بقسيمةٍ\nسبقت عوارضها إليك من الفم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-016",
+      "number": 16,
+      "first_hemistich": "أو روضةً أنفاً تضمن نبتها",
+      "second_hemistich": "غيثٌ قليل الدمن ليس بمعلم",
+      "text": "أو روضةً أنفاً تضمن نبتها\nغيثٌ قليل الدمن ليس بمعلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-017",
+      "number": 17,
+      "first_hemistich": "جادت عليه كل بكرٍ حرةٍ",
+      "second_hemistich": "فتركن كل قرارةٍ كالدرهم",
+      "text": "جادت عليه كل بكرٍ حرةٍ\nفتركن كل قرارةٍ كالدرهم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-018",
+      "number": 18,
+      "first_hemistich": "سحاً و تسكاباً فكل عشيةٍ",
+      "second_hemistich": "يجري عليها الماء لم يتصرم",
+      "text": "سحاً و تسكاباً فكل عشيةٍ\nيجري عليها الماء لم يتصرم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-019",
+      "number": 19,
+      "first_hemistich": "و خلا الذباب بها فليس ببارحٍ",
+      "second_hemistich": "غرداً كفعل الشارب المترنم",
+      "text": "و خلا الذباب بها فليس ببارحٍ\nغرداً كفعل الشارب المترنم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-020",
+      "number": 20,
+      "first_hemistich": "هزجاً يحك ذراعه بذراعه",
+      "second_hemistich": "قدح المكب على الزناد الأجذم",
+      "text": "هزجاً يحك ذراعه بذراعه\nقدح المكب على الزناد الأجذم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-021",
+      "number": 21,
+      "first_hemistich": "تمسي و تصبح فوق ظهر حشيةٍ",
+      "second_hemistich": "و أبيت فوق سراة أدهم ملجم",
+      "text": "تمسي و تصبح فوق ظهر حشيةٍ\nو أبيت فوق سراة أدهم ملجم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-022",
+      "number": 22,
+      "first_hemistich": "وحشيتي سرجٌ على عبل الشوى",
+      "second_hemistich": "نهدٍ مراكله نبيل المخرم",
+      "text": "وحشيتي سرجٌ على عبل الشوى\nنهدٍ مراكله نبيل المخرم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-023",
+      "number": 23,
+      "first_hemistich": "هل تبلغني دارها شدنيةٌ",
+      "second_hemistich": "لعنت بمحروم الشراب مصرم",
+      "text": "هل تبلغني دارها شدنيةٌ\nلعنت بمحروم الشراب مصرم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-024",
+      "number": 24,
+      "first_hemistich": "خطارةٌ غب السرى زيافةٌ",
+      "second_hemistich": "تطس الإكام بوخد خفٍ ميتم",
+      "text": "خطارةٌ غب السرى زيافةٌ\nتطس الإكام بوخد خفٍ ميتم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-025",
+      "number": 25,
+      "first_hemistich": "و كأنما تطس الإكام عشيةً",
+      "second_hemistich": "بقريب بين المنسمين مصلم",
+      "text": "و كأنما تطس الإكام عشيةً\nبقريب بين المنسمين مصلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-026",
+      "number": 26,
+      "first_hemistich": "تأوي له قلص النعام كما أوت",
+      "second_hemistich": "حذقٌ يمانيةٌ لأعجم طمطم",
+      "text": "تأوي له قلص النعام كما أوت\nحذقٌ يمانيةٌ لأعجم طمطم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-027",
+      "number": 27,
+      "first_hemistich": "يتبعن قلة رأسه و كأنه",
+      "second_hemistich": "حدجٌ على نعشٍ لهن مخيم",
+      "text": "يتبعن قلة رأسه و كأنه\nحدجٌ على نعشٍ لهن مخيم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-028",
+      "number": 28,
+      "first_hemistich": "صعلٍ يعود بذي العشيرة بيضه",
+      "second_hemistich": "كالعبد ذي الفرو الطويل الأصلم",
+      "text": "صعلٍ يعود بذي العشيرة بيضه\nكالعبد ذي الفرو الطويل الأصلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-029",
+      "number": 29,
+      "first_hemistich": "شربت بماء الدحرضين فأصبحت",
+      "second_hemistich": "زوراء تنفر عن حياض الديلم",
+      "text": "شربت بماء الدحرضين فأصبحت\nزوراء تنفر عن حياض الديلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-030",
+      "number": 30,
+      "first_hemistich": "وكأنما تنأى بجانب دفها ال",
+      "second_hemistich": "وحشي من هزج العشي مؤوم",
+      "text": "وكأنما تنأى بجانب دفها ال\nوحشي من هزج العشي مؤوم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-031",
+      "number": 31,
+      "first_hemistich": "هرٍ جنيبٍ كلما عطفت له",
+      "second_hemistich": "غضبى اتقاها باليدين وبالفم",
+      "text": "هرٍ جنيبٍ كلما عطفت له\nغضبى اتقاها باليدين وبالفم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-032",
+      "number": 32,
+      "first_hemistich": "بركت على جنب الرداع كأنما",
+      "second_hemistich": "بركت على قصبٍ أجش مهضم",
+      "text": "بركت على جنب الرداع كأنما\nبركت على قصبٍ أجش مهضم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-033",
+      "number": 33,
+      "first_hemistich": "وكأن رباً أو كحيلاً معقداً",
+      "second_hemistich": "حش الوقود به جوانب قمقم",
+      "text": "وكأن رباً أو كحيلاً معقداً\nحش الوقود به جوانب قمقم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-034",
+      "number": 34,
+      "first_hemistich": "ينباع من ذفرى غضوبٍ جسرةٍ",
+      "second_hemistich": "زيافةٍ مثل الفنيق المكدم",
+      "text": "ينباع من ذفرى غضوبٍ جسرةٍ\nزيافةٍ مثل الفنيق المكدم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-035",
+      "number": 35,
+      "first_hemistich": "إن تغدفي دوني القناع فإنني",
+      "second_hemistich": "طبٌ بأخذ الفارس المستلئم",
+      "text": "إن تغدفي دوني القناع فإنني\nطبٌ بأخذ الفارس المستلئم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-036",
+      "number": 36,
+      "first_hemistich": "أثني علي بما علمت فإنني",
+      "second_hemistich": "سمحٌ مخالقتي إذا لم أظلم",
+      "text": "أثني علي بما علمت فإنني\nسمحٌ مخالقتي إذا لم أظلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-037",
+      "number": 37,
+      "first_hemistich": "وإذا ظلمت فإن ظلمي باسلٌ",
+      "second_hemistich": "مرٌ مذاقته كطعم العلقم",
+      "text": "وإذا ظلمت فإن ظلمي باسلٌ\nمرٌ مذاقته كطعم العلقم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-038",
+      "number": 38,
+      "first_hemistich": "ولقد شربت من المدامة بعدما",
+      "second_hemistich": "ركد الهواجر بالمشوف المعلم",
+      "text": "ولقد شربت من المدامة بعدما\nركد الهواجر بالمشوف المعلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-039",
+      "number": 39,
+      "first_hemistich": "بزجاجةٍ صفراء ذات أسرةٍ",
+      "second_hemistich": "قرنت بأزهر في الشمال مفدم",
+      "text": "بزجاجةٍ صفراء ذات أسرةٍ\nقرنت بأزهر في الشمال مفدم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-040",
+      "number": 40,
+      "first_hemistich": "فإذا شربت فإنني مستهلكٌ",
+      "second_hemistich": "مالي وعرضي وافرٌ لم يكلم",
+      "text": "فإذا شربت فإنني مستهلكٌ\nمالي وعرضي وافرٌ لم يكلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-041",
+      "number": 41,
+      "first_hemistich": "وإذا صحوت فما أقصر عن ندىً",
+      "second_hemistich": "وكما علمت شمائلي وتكرمي",
+      "text": "وإذا صحوت فما أقصر عن ندىً\nوكما علمت شمائلي وتكرمي",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-042",
+      "number": 42,
+      "first_hemistich": "وحليل غانيةٍ تركت مجدلاً",
+      "second_hemistich": "تمكو فريصته كشدقٍ الأعلم",
+      "text": "وحليل غانيةٍ تركت مجدلاً\nتمكو فريصته كشدقٍ الأعلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-043",
+      "number": 43,
+      "first_hemistich": "سبقت له كفي بعاجل طعنةٍ",
+      "second_hemistich": "ورشاش نافذةٍ كلون العندم",
+      "text": "سبقت له كفي بعاجل طعنةٍ\nورشاش نافذةٍ كلون العندم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-044",
+      "number": 44,
+      "first_hemistich": "إذ لا أزال على رحالة سابحٍ",
+      "second_hemistich": "نهدٍ تعاوره الكماة مكلم",
+      "text": "إذ لا أزال على رحالة سابحٍ\nنهدٍ تعاوره الكماة مكلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-045",
+      "number": 45,
+      "first_hemistich": "طوراً يجرد للطعان وتارةً",
+      "second_hemistich": "يأوي إلى حصد القسي عرمرم",
+      "text": "طوراً يجرد للطعان وتارةً\nيأوي إلى حصد القسي عرمرم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-046",
+      "number": 46,
+      "first_hemistich": "يخبرك من شهد الوقيعة أنني",
+      "second_hemistich": "أغشى الوغى وأعف عند المغنم",
+      "text": "يخبرك من شهد الوقيعة أنني\nأغشى الوغى وأعف عند المغنم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-047",
+      "number": 47,
+      "first_hemistich": "ومدجج كره الكماة نزاله",
+      "second_hemistich": "لا ممعنٍ هرباً ولا مستسلم",
+      "text": "ومدجج كره الكماة نزاله\nلا ممعنٍ هرباً ولا مستسلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-048",
+      "number": 48,
+      "first_hemistich": "جادت له كفي بعاجل طعنةٍ",
+      "second_hemistich": "بمثقفٍ صدق الكعوب مقوم",
+      "text": "جادت له كفي بعاجل طعنةٍ\nبمثقفٍ صدق الكعوب مقوم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-049",
+      "number": 49,
+      "first_hemistich": "فشككت بالرمح الأصم ثيابه",
+      "second_hemistich": "ليس الكريم على القنا بمحرم",
+      "text": "فشككت بالرمح الأصم ثيابه\nليس الكريم على القنا بمحرم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-050",
+      "number": 50,
+      "first_hemistich": "فتركته جزر السباع ينشنه",
+      "second_hemistich": "يقضمن حسن بنانه والمعصم",
+      "text": "فتركته جزر السباع ينشنه\nيقضمن حسن بنانه والمعصم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-051",
+      "number": 51,
+      "first_hemistich": "ومسك سابغةٍ هتكت فروجها",
+      "second_hemistich": "بالسيف عن حامي الحقيقة معلم",
+      "text": "ومسك سابغةٍ هتكت فروجها\nبالسيف عن حامي الحقيقة معلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-052",
+      "number": 52,
+      "first_hemistich": "ربذ يداه بالقداح إذا شتا",
+      "second_hemistich": "هتاك غايات التجار ملوم",
+      "text": "ربذ يداه بالقداح إذا شتا\nهتاك غايات التجار ملوم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-053",
+      "number": 53,
+      "first_hemistich": "لما رآني قد نزلت أريده",
+      "second_hemistich": "أبدى نواجذه لغير تبسم",
+      "text": "لما رآني قد نزلت أريده\nأبدى نواجذه لغير تبسم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-054",
+      "number": 54,
+      "first_hemistich": "عهدي به مد النهار كأنما",
+      "second_hemistich": "خضب البنان ورأسه بالعظلم",
+      "text": "عهدي به مد النهار كأنما\nخضب البنان ورأسه بالعظلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-055",
+      "number": 55,
+      "first_hemistich": "فطعنته بالرمح ثم علوته",
+      "second_hemistich": "بمهندٍ صافي الحديدة مخذم",
+      "text": "فطعنته بالرمح ثم علوته\nبمهندٍ صافي الحديدة مخذم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-056",
+      "number": 56,
+      "first_hemistich": "بطلٍ كأن ثيابه في سرحةٍ",
+      "second_hemistich": "يحذى نعال السبت ليس بتوءم",
+      "text": "بطلٍ كأن ثيابه في سرحةٍ\nيحذى نعال السبت ليس بتوءم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-057",
+      "number": 57,
+      "first_hemistich": "يا شاة ما قنصٍ لمن حلت له",
+      "second_hemistich": "حرمت علي و ليتها لم تحرم",
+      "text": "يا شاة ما قنصٍ لمن حلت له\nحرمت علي و ليتها لم تحرم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-058",
+      "number": 58,
+      "first_hemistich": "فبعثت جاريتي فقلت لها اذهبي",
+      "second_hemistich": "فتجسسي أخبارها لي و اعلم",
+      "text": "فبعثت جاريتي فقلت لها اذهبي\nفتجسسي أخبارها لي و اعلم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-059",
+      "number": 59,
+      "first_hemistich": "قالت رأيت من الأعادي غرةً",
+      "second_hemistich": "و الشاة ممكنةٌ لمن هو مرتم",
+      "text": "قالت رأيت من الأعادي غرةً\nو الشاة ممكنةٌ لمن هو مرتم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-060",
+      "number": 60,
+      "first_hemistich": "و كأنما التفتت بجيد جدايةٍ",
+      "second_hemistich": "رشأٍ من الغزلان حرٍ أرثم",
+      "text": "و كأنما التفتت بجيد جدايةٍ\nرشأٍ من الغزلان حرٍ أرثم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-061",
+      "number": 61,
+      "first_hemistich": "نبئت عمراً غير شاكر نعمتي",
+      "second_hemistich": "و الكفر مخبثةٌ لنفس المنعم",
+      "text": "نبئت عمراً غير شاكر نعمتي\nو الكفر مخبثةٌ لنفس المنعم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-062",
+      "number": 62,
+      "first_hemistich": "و لقد حفظت وصاة عمي بالضحا",
+      "second_hemistich": "إذ تقلص الشفتان عن وضح الفم",
+      "text": "و لقد حفظت وصاة عمي بالضحا\nإذ تقلص الشفتان عن وضح الفم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-063",
+      "number": 63,
+      "first_hemistich": "في حومة الحرب التي لا تشتكي",
+      "second_hemistich": "غمراتها الأبطال غير تغمغم",
+      "text": "في حومة الحرب التي لا تشتكي\nغمراتها الأبطال غير تغمغم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-064",
+      "number": 64,
+      "first_hemistich": "إذ يتقون بي الأسنة لم أخم",
+      "second_hemistich": "عنها و لكني تضايق مقدمي",
+      "text": "إذ يتقون بي الأسنة لم أخم\nعنها و لكني تضايق مقدمي",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-065",
+      "number": 65,
+      "first_hemistich": "لما رأيت القوم أقبل جمعهم",
+      "second_hemistich": "يتذامرون كررت غير مذمم",
+      "text": "لما رأيت القوم أقبل جمعهم\nيتذامرون كررت غير مذمم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-066",
+      "number": 66,
+      "first_hemistich": "يدعون عنتر و الرماح كأنها",
+      "second_hemistich": "أشطان بئرٍ في لبان الأدهم",
+      "text": "يدعون عنتر و الرماح كأنها\nأشطان بئرٍ في لبان الأدهم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-067",
+      "number": 67,
+      "first_hemistich": "ما زلت أرميهم بثغرة نحره",
+      "second_hemistich": "و لبانه حتى تسربل بالدم",
+      "text": "ما زلت أرميهم بثغرة نحره\nو لبانه حتى تسربل بالدم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-068",
+      "number": 68,
+      "first_hemistich": "فازور من وقع القنا بلبانه",
+      "second_hemistich": "و شكا إلي بعبرةٍ و تحمحم",
+      "text": "فازور من وقع القنا بلبانه\nو شكا إلي بعبرةٍ و تحمحم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-069",
+      "number": 69,
+      "first_hemistich": "لو كان يدري ما المحاورة اشتكى",
+      "second_hemistich": "و لكان لو علم الكلام مكلمي",
+      "text": "لو كان يدري ما المحاورة اشتكى\nو لكان لو علم الكلام مكلمي",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-070",
+      "number": 70,
+      "first_hemistich": "و لقد شفى نفسي و أبرأ سقمها",
+      "second_hemistich": "قول الفوارس ويك عنتر أقدم",
+      "text": "و لقد شفى نفسي و أبرأ سقمها\nقول الفوارس ويك عنتر أقدم",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-071",
+      "number": 71,
+      "first_hemistich": "وَالخَيلُ تَقتَحِمُ الخَبارَ عَوابِساً",
+      "second_hemistich": "مِن بَينِ شَيظَمَةٍ وَآخَرَ شَيظَمِ",
+      "text": "وَالخَيلُ تَقتَحِمُ الخَبارَ عَوابِساً\nمِن بَينِ شَيظَمَةٍ وَآخَرَ شَيظَمِ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-072",
+      "number": 72,
+      "first_hemistich": "ذُلُلٌ رِكابي حَيثُ شِئتُ مُشايِعي",
+      "second_hemistich": "لُبّي وَأَحفِزُهُ بِأَمرٍ مُبرَمِ",
+      "text": "ذُلُلٌ رِكابي حَيثُ شِئتُ مُشايِعي\nلُبّي وَأَحفِزُهُ بِأَمرٍ مُبرَمِ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-073",
+      "number": 73,
+      "first_hemistich": "وَلَقَد خَشيتُ بِأَن أَموتَ وَلَم تَدُر",
+      "second_hemistich": "لِلحَربِ دائِرَةٌ عَلى اِبنَي ضَمضَمِ",
+      "text": "وَلَقَد خَشيتُ بِأَن أَموتَ وَلَم تَدُر\nلِلحَربِ دائِرَةٌ عَلى اِبنَي ضَمضَمِ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-074",
+      "number": 74,
+      "first_hemistich": "الشاتِمَي عِرضي وَلَم أَشتِمهُما",
+      "second_hemistich": "وَالناذِرَينِ إِذا لَم اَلقَهُما دَمي",
+      "text": "الشاتِمَي عِرضي وَلَم أَشتِمهُما\nوَالناذِرَينِ إِذا لَم اَلقَهُما دَمي",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-antara-075",
+      "number": 75,
+      "first_hemistich": "إِن يَفعَلا فَلَقَد تَرَكتُ أَباهُما",
+      "second_hemistich": "جَزَرَ السِباعِ وَكُلِّ نَسرٍ قَشعَمِ",
+      "text": "إِن يَفعَلا فَلَقَد تَرَكتُ أَباهُما\nجَزَرَ السِباعِ وَكُلِّ نَسرٍ قَشعَمِ",
+      "chapter_id": "qasida"
+    }
+  ]
+}

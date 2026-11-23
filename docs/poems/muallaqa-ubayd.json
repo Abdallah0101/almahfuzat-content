@@ -1,0 +1,392 @@
+{
+  "schema_version": 1,
+  "id": "muallaqa-ubayd",
+  "title": "معلقة عبيد بن الأبرص: أقفر من أهله ملحوب",
+  "author": "عبيد بن الأبرص الأسدي (الجاهلي)",
+  "description": "المعلقة على بحر الكامل. رواية افتتاح «أقفر من أهله ملحوب» (نسخة مشكولة). افتتاح «ديار هند وغوث» هو الأشهر في المصادر.",
+  "science": "الشعر الجاهلي",
+  "source": {
+    "name": "ويكي مصدر: معلقة عبيد بن الأبرص",
+    "url": "https://ar.wikisource.org/wiki/%D9%85%D8%B9%D9%84%D9%82%D8%A9_%D8%B9%D8%A8%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D8%A3%D8%A8%D8%B1%D8%B5",
+    "notes": "استُوردت آليا من الويكي نص في 2026-11-24 (النسخة المشكولة الأولى). النسخة الثانية بلا تشكيل أطول من الأولى؛ اعتُمدت المشكولة المكتملة بخاتمة «لا بد حيزومه منقوب». is_complete=false إلى حين مراجعة."
+  },
+  "is_complete": false,
+  "revision": 1,
+  "chapters": [
+    {
+      "id": "qasida",
+      "title": "أقفر من أهله ملحوب",
+      "number": 1
+    }
+  ],
+  "verses": [
+    {
+      "id": "muallaqa-ubayd-001",
+      "number": 1,
+      "first_hemistich": "أَقفَرَ مِن أَهلِهِ مَلْحوبُ",
+      "second_hemistich": "فالقُطبيَّات فالذَّنوبُ",
+      "text": "أَقفَرَ مِن أَهلِهِ مَلْحوبُ\nفالقُطبيَّات فالذَّنوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-002",
+      "number": 2,
+      "first_hemistich": "فَراكِسٌ فثُعَيلٍباتٌ",
+      "second_hemistich": "فَذاتَ فَرقَينِ فالقَلِيبُ",
+      "text": "فَراكِسٌ فثُعَيلٍباتٌ\nفَذاتَ فَرقَينِ فالقَلِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-003",
+      "number": 3,
+      "first_hemistich": "فَعَرْدةٌ، فَقَفا حِبِرٍّ",
+      "second_hemistich": "لَيسَ بِها مِنهُمُ عَريبُ",
+      "text": "فَعَرْدةٌ، فَقَفا حِبِرٍّ\nلَيسَ بِها مِنهُمُ عَريبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-004",
+      "number": 4,
+      "first_hemistich": "إن بُدِّلَتْ أهْلِها وُحوشًا",
+      "second_hemistich": "وغًيَّرتْ حالَها الخُطُوبُ",
+      "text": "إن بُدِّلَتْ أهْلِها وُحوشًا\nوغًيَّرتْ حالَها الخُطُوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-005",
+      "number": 5,
+      "first_hemistich": "أرضٌ تَوارَثَها الجُدوبُ",
+      "second_hemistich": "فَكُلُّ من حَلَّها مَحْروبُ",
+      "text": "أرضٌ تَوارَثَها الجُدوبُ\nفَكُلُّ من حَلَّها مَحْروبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-006",
+      "number": 6,
+      "first_hemistich": "إمَّا قَتيلاً وإمَّا هَلْكًا",
+      "second_hemistich": "والشَّيْبُ شَيْنٌ لِمَنْ يَشِيبُ",
+      "text": "إمَّا قَتيلاً وإمَّا هَلْكًا\nوالشَّيْبُ شَيْنٌ لِمَنْ يَشِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-007",
+      "number": 7,
+      "first_hemistich": "عَيناكَ دَمْعُهما سَروبٌ",
+      "second_hemistich": "كأنَّ شَأنَيهِما شَعِيبُ",
+      "text": "عَيناكَ دَمْعُهما سَروبٌ\nكأنَّ شَأنَيهِما شَعِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-008",
+      "number": 8,
+      "first_hemistich": "واهِيةٌ أو مَعينُ مَمعْنٍ",
+      "second_hemistich": "مِنْ هَضْبةٍ دونَها لَهوبُ",
+      "text": "واهِيةٌ أو مَعينُ مَمعْنٍ\nمِنْ هَضْبةٍ دونَها لَهوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-009",
+      "number": 9,
+      "first_hemistich": "أو فَلْجُ وادٍ بِبَطْنِ وادٍ",
+      "second_hemistich": "لِلماءِ مِنْ تَحتِها سَكوبُ",
+      "text": "أو فَلْجُ وادٍ بِبَطْنِ وادٍ\nلِلماءِ مِنْ تَحتِها سَكوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-010",
+      "number": 10,
+      "first_hemistich": "أوْ جَدولٌ في ظِلالِ نَخْلٍ",
+      "second_hemistich": "لِلماءِ مِنْ تَحْتِها قَسيبُ",
+      "text": "أوْ جَدولٌ في ظِلالِ نَخْلٍ\nلِلماءِ مِنْ تَحْتِها قَسيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-011",
+      "number": 11,
+      "first_hemistich": "تَصْبو وأنَّى لكَ التَّصابي؟",
+      "second_hemistich": "أنَّي وقَد راعَكَ المَشيبُ؟",
+      "text": "تَصْبو وأنَّى لكَ التَّصابي؟\nأنَّي وقَد راعَكَ المَشيبُ؟",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-012",
+      "number": 12,
+      "first_hemistich": "فإنْ يَكُنْ حالَ أجْمَعِها",
+      "second_hemistich": "فلا بَدِيٌّء ولا عَجيبُ",
+      "text": "فإنْ يَكُنْ حالَ أجْمَعِها\nفلا بَدِيٌّء ولا عَجيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-013",
+      "number": 13,
+      "first_hemistich": "أوْ يكُ أقْفَرَ مِنها جَوُّها",
+      "second_hemistich": "وعادَها المَحْلُ والجُدوبُ",
+      "text": "أوْ يكُ أقْفَرَ مِنها جَوُّها\nوعادَها المَحْلُ والجُدوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-014",
+      "number": 14,
+      "first_hemistich": "وكُلُّ ذي نِعْمةٍ مَخلوسٌ",
+      "second_hemistich": "وكُلُّ ذي أمَلٍ مَكذوبُ",
+      "text": "وكُلُّ ذي نِعْمةٍ مَخلوسٌ\nوكُلُّ ذي أمَلٍ مَكذوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-015",
+      "number": 15,
+      "first_hemistich": "وكُلُّ ذي إبِلٍ مَوْروثٌ",
+      "second_hemistich": "وكُلُّ ذي سَلْبٍ مَسْلوبُ",
+      "text": "وكُلُّ ذي إبِلٍ مَوْروثٌ\nوكُلُّ ذي سَلْبٍ مَسْلوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-016",
+      "number": 16,
+      "first_hemistich": "وكُلُّ ذي غَيْبةٍ يَؤوبُ",
+      "second_hemistich": "وغائِبُ المَوْتِ لا يَؤوبُ",
+      "text": "وكُلُّ ذي غَيْبةٍ يَؤوبُ\nوغائِبُ المَوْتِ لا يَؤوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-017",
+      "number": 17,
+      "first_hemistich": "أعاقِرٌ مِثْلُ ذاتِ رَحْمٍ؟",
+      "second_hemistich": "أم غانِمٌ مِثْلُ مَنْ يَخيبُ؟",
+      "text": "أعاقِرٌ مِثْلُ ذاتِ رَحْمٍ؟\nأم غانِمٌ مِثْلُ مَنْ يَخيبُ؟",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-018",
+      "number": 18,
+      "first_hemistich": "مَنْ يَسْألِ النَّاسَ يَحْرِمُوهُ",
+      "second_hemistich": "وسائِلُ اللهِ لا يَخيبُ",
+      "text": "مَنْ يَسْألِ النَّاسَ يَحْرِمُوهُ\nوسائِلُ اللهِ لا يَخيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-019",
+      "number": 19,
+      "first_hemistich": "أفْلِحْ بِما شِئْتَ قدْ يَبلُغُ بال",
+      "second_hemistich": "ضَّعْفِ وقَدْ يُخْدَعُ الأرِيبُ",
+      "text": "أفْلِحْ بِما شِئْتَ قدْ يَبلُغُ بال\nضَّعْفِ وقَدْ يُخْدَعُ الأرِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-020",
+      "number": 20,
+      "first_hemistich": "لا يَعِظُ النَّاسُ مَنْ لا يَعِظُ الدْ",
+      "second_hemistich": "دَهْرُ ولا يَنْفَعُ التَّلْبِيبُ",
+      "text": "لا يَعِظُ النَّاسُ مَنْ لا يَعِظُ الدْ\nدَهْرُ ولا يَنْفَعُ التَّلْبِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-021",
+      "number": 21,
+      "first_hemistich": "إلاَّ سَجِيَّاتُ ما القُلُوبُ",
+      "second_hemistich": "وكم يُصَيِّرْنَ شانئاً حَبِيبُ",
+      "text": "إلاَّ سَجِيَّاتُ ما القُلُوبُ\nوكم يُصَيِّرْنَ شانئاً حَبِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-022",
+      "number": 22,
+      "first_hemistich": "ساعِدْ بِأرضٍ إنْ كُنتَ فيها",
+      "second_hemistich": "ولا تَقُلْ إنَّني غَريبُ",
+      "text": "ساعِدْ بِأرضٍ إنْ كُنتَ فيها\nولا تَقُلْ إنَّني غَريبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-023",
+      "number": 23,
+      "first_hemistich": "قدْ يُوصَلُ النَّازِحُ النَّائي وقد",
+      "second_hemistich": "يُقْطَعُ ذو السُّهْمَةِ القَريبُ",
+      "text": "قدْ يُوصَلُ النَّازِحُ النَّائي وقد\nيُقْطَعُ ذو السُّهْمَةِ القَريبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-024",
+      "number": 24,
+      "first_hemistich": "والمَرْءُ ما عاشَ في تَكْذيبٍ",
+      "second_hemistich": "طُولُ الحَياةِ لهُ تَعْذيبُ",
+      "text": "والمَرْءُ ما عاشَ في تَكْذيبٍ\nطُولُ الحَياةِ لهُ تَعْذيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-025",
+      "number": 25,
+      "first_hemistich": "بل رُبَّ ماءٍ وَرَدتُّ آجِنٍ",
+      "second_hemistich": "سَبيلُهُ خائفٌ جَدِيبُ",
+      "text": "بل رُبَّ ماءٍ وَرَدتُّ آجِنٍ\nسَبيلُهُ خائفٌ جَدِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-026",
+      "number": 26,
+      "first_hemistich": "رِيشُ الحَمامِ على أرْجائِهِ",
+      "second_hemistich": "لِلقَلبِ مِنْ خَوْفِهِ وَجِيبُ",
+      "text": "رِيشُ الحَمامِ على أرْجائِهِ\nلِلقَلبِ مِنْ خَوْفِهِ وَجِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-027",
+      "number": 27,
+      "first_hemistich": "قَطَعتهُ غُدْوة مُشِيحاً",
+      "second_hemistich": "وصاحِبي بادِنٌ خَبوبُ",
+      "text": "قَطَعتهُ غُدْوة مُشِيحاً\nوصاحِبي بادِنٌ خَبوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-028",
+      "number": 28,
+      "first_hemistich": "غَيْرانةٌ مُوجَدٌ فَقارُها",
+      "second_hemistich": "كأنَّ حارِكَها كَثِيبُ",
+      "text": "غَيْرانةٌ مُوجَدٌ فَقارُها\nكأنَّ حارِكَها كَثِيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-029",
+      "number": 29,
+      "first_hemistich": "أَخلَفَ ما باذلاً سَديسُها",
+      "second_hemistich": "لا حِقَّةٌ هِيَ ولا نَيُوبُ",
+      "text": "أَخلَفَ ما باذلاً سَديسُها\nلا حِقَّةٌ هِيَ ولا نَيُوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-030",
+      "number": 30,
+      "first_hemistich": "كَأنَّها مِن حَميرِ غابٍ",
+      "second_hemistich": "جَوْنٌ بِصَفْحَتِهِ نُدوبُ",
+      "text": "كَأنَّها مِن حَميرِ غابٍ\nجَوْنٌ بِصَفْحَتِهِ نُدوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-031",
+      "number": 31,
+      "first_hemistich": "أَو شَبَبٌ يَحفِرُ الرُخامى",
+      "second_hemistich": "تَلُفُّهُ شَمألٌ هُبوبُ",
+      "text": "أَو شَبَبٌ يَحفِرُ الرُخامى\nتَلُفُّهُ شَمألٌ هُبوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-032",
+      "number": 32,
+      "first_hemistich": "فذاكَ عَصْرٌ، وقدْ أراني",
+      "second_hemistich": "تَحمِلُني نَهدَةٌ سُرحوبُ",
+      "text": "فذاكَ عَصْرٌ، وقدْ أراني\nتَحمِلُني نَهدَةٌ سُرحوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-033",
+      "number": 33,
+      "first_hemistich": "مُضَبَّرٌ خَلقُها تَضبيراً",
+      "second_hemistich": "يَنْشَقُّ عَنْ وَجْهِها السَّبيبُ",
+      "text": "مُضَبَّرٌ خَلقُها تَضبيراً\nيَنْشَقُّ عَنْ وَجْهِها السَّبيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-034",
+      "number": 34,
+      "first_hemistich": "زَيتِيَّةٌ ناعِمٌ عُروقُها",
+      "second_hemistich": "وَلَيِّنٌ أَسرُها رَطيبُ",
+      "text": "زَيتِيَّةٌ ناعِمٌ عُروقُها\nوَلَيِّنٌ أَسرُها رَطيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-035",
+      "number": 35,
+      "first_hemistich": "كَأَنَّها لِقوةٌ طَلوبُ",
+      "second_hemistich": "تُخزَنُ في وَكرِها القُلوبُ",
+      "text": "كَأَنَّها لِقوةٌ طَلوبُ\nتُخزَنُ في وَكرِها القُلوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-036",
+      "number": 36,
+      "first_hemistich": "بانَت عَلى إِرَمٍ عَذوباً",
+      "second_hemistich": "كَأَنَّها شَيخَةٌ رَقوبُ",
+      "text": "بانَت عَلى إِرَمٍ عَذوباً\nكَأَنَّها شَيخَةٌ رَقوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-037",
+      "number": 37,
+      "first_hemistich": "فَأَصبَحَت في غَداةِ قِرَّةٍ",
+      "second_hemistich": "يَسْقُطُ عَنْ رِيشِها الضَّريبُ",
+      "text": "فَأَصبَحَت في غَداةِ قِرَّةٍ\nيَسْقُطُ عَنْ رِيشِها الضَّريبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-038",
+      "number": 38,
+      "first_hemistich": "فَأَبصَرَت ثَعلَباً مِن ساعَةٍ",
+      "second_hemistich": "وَدونَهُ سَبسَبٌ جَديبُ",
+      "text": "فَأَبصَرَت ثَعلَباً مِن ساعَةٍ\nوَدونَهُ سَبسَبٌ جَديبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-039",
+      "number": 39,
+      "first_hemistich": "فَنَفَضَت ريشَها وَاِنتَفَضَت",
+      "second_hemistich": "وَهيَ مِن نَهضَةٍ قَريبُ",
+      "text": "فَنَفَضَت ريشَها وَاِنتَفَضَت\nوَهيَ مِن نَهضَةٍ قَريبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-040",
+      "number": 40,
+      "first_hemistich": "فَاِشتالَ وَاِرتاعَ مِن حَسيسِها",
+      "second_hemistich": "وَفِعلَهُ يَفعَلُ المَذؤوبُ",
+      "text": "فَاِشتالَ وَاِرتاعَ مِن حَسيسِها\nوَفِعلَهُ يَفعَلُ المَذؤوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-041",
+      "number": 41,
+      "first_hemistich": "فَنَهَضَت نَحوَهُ حَثيثَةً",
+      "second_hemistich": "وَحَرَدَت حَردَةً تَسيبُ",
+      "text": "فَنَهَضَت نَحوَهُ حَثيثَةً\nوَحَرَدَت حَردَةً تَسيبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-042",
+      "number": 42,
+      "first_hemistich": "يَدِبُّ مِن حِسِّها دَبيباً",
+      "second_hemistich": "وَالعَينُ حِملاقُها مَقلوبُ",
+      "text": "يَدِبُّ مِن حِسِّها دَبيباً\nوَالعَينُ حِملاقُها مَقلوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-043",
+      "number": 43,
+      "first_hemistich": "فَأَدرَكَتهُ فَطَرَّحَتهُ",
+      "second_hemistich": "والصَّيْدُ مِنْ تَحْتِها مَكْروبُ",
+      "text": "فَأَدرَكَتهُ فَطَرَّحَتهُ\nوالصَّيْدُ مِنْ تَحْتِها مَكْروبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-044",
+      "number": 44,
+      "first_hemistich": "فَجَدَّلَتهُ فَطَرَّحَتهُ",
+      "second_hemistich": "فكَدَّحَتْ وَجْهَهُ الجَبوبُ",
+      "text": "فَجَدَّلَتهُ فَطَرَّحَتهُ\nفكَدَّحَتْ وَجْهَهُ الجَبوبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-045",
+      "number": 45,
+      "first_hemistich": "فعاوَدَتْهُ فَرَفَّعَتْهُ",
+      "second_hemistich": "فأرْسَلَتْهُ وهُوَ مَكْروبُ",
+      "text": "فعاوَدَتْهُ فَرَفَّعَتْهُ\nفأرْسَلَتْهُ وهُوَ مَكْروبُ",
+      "chapter_id": "qasida"
+    },
+    {
+      "id": "muallaqa-ubayd-046",
+      "number": 46,
+      "first_hemistich": "يَضغو وَمِخلَبُها في دَفِّهِ",
+      "second_hemistich": "لا بُدَّ حَيْزومُهُ مَنقُوبُ",
+      "text": "يَضغو وَمِخلَبُها في دَفِّهِ\nلا بُدَّ حَيْزومُهُ مَنقُوبُ",
+      "chapter_id": "qasida"
+    }
+  ]
+}
