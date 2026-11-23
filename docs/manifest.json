@@ -1,8 +1,19 @@
 {
   "schema_version": 1,
-  "catalog_version": 2,
-  "updated_at": "2026-11-23T05:29:32.485Z",
+  "catalog_version": 3,
+  "updated_at": "2026-11-23T20:59:54.589Z",
   "poems": [
+    {
+      "id": "alfiyya-ibn-malik",
+      "title": "ألفية ابن مالك في النحو والصرف",
+      "author": "جمال الدين أبو عبد الله محمد بن عبد الله بن مالك الطائي الجياني (ت 672هـ)",
+      "science": "النحو والصرف",
+      "verse_count": 1002,
+      "path": "poems/alfiyya-ibn-malik.json",
+      "revision": 1,
+      "sha256": "f26e5bdd63253219b426946d19d45e8c11fe5f2f1b7b172f90c0c019d279ac63",
+      "is_complete": false
+    },
     {
       "id": "mahfuzat-demo",
       "title": "نموذج المحفوظات التجريبي",
