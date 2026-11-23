@@ -1,55 +1,47 @@
-# مستودع محتوى المحفوظات
+# Mahfuzat content
 
-هذا المستودع مستقل عن كود التطبيق. `docs/` هو جذر GitHub Pages، والتطبيق لا يكتشف الملفات إلا عبر `docs/manifest.json`.
+This repository contains public poem data, not application code. `docs/` is the GitHub Pages root, and `docs/manifest.json` is the app's only catalog discovery entry point.
 
-## حالة المشروع ومسار التحرير الحالي (اقرأ هذا أولًا)
+## Current editing workflow
 
-جسر `almahfuzat-telegram-agent` **أُوقف وأُرشف** (كان فهمًا سابقًا ملغى). لا حاجة لأي بوت أو خادم.
+The standalone Telegram bridge is archived and removed from the working system. No bot, server, or always-on process is required.
 
-المسار المعتمد:
+1. The owner sends poem text to the personal assistant on Telegram or edits it directly in VS Code.
+2. The editor updates only `docs/poems/<id>.json` and follows [AGENTS.md](AGENTS.md).
+3. Run `npm run manifest && npm run check` locally.
+4. Commit and push to `main`.
+5. GitHub Actions validates the content and publishes `docs/`.
+6. The app synchronizes through `manifest.json`, `revision`, and SHA-256.
 
-1. يرسل المالك نص المنظومة إلى **مساعده الشخصي (Kimizao عبر Telegram)** — أو يحرّرها بنفسه في VS Code.
-2. المحرّر يعدّل `docs/poems/<id>.json` فقط، وفق `AGENTS.md` الملزم.
-3. ينفّذ `npm run manifest && npm run check` محليًا.
-4. `git commit` و`git push` إلى `main`.
-5. GitHub Actions يتحقق وينشر `docs/` تلقائيًا.
-6. التطبيق يزامن تلقائيًا عبر `manifest.json` (SHA-256 + `revision`).
+This repository contains data. Do not restore the archived bridge or propose a replacement server unless the owner explicitly requests it.
 
-**رسالة لمساعد VS Code / أي وكيل يفتح هذا المستودع:**
-هذا المستودع محتوى بيانات لا تطبيقًا. مهمتك الوحيدة عند طلب المالك تعديل المنظومات:
-
-- عدّل `docs/poems/*.json` **فقط**؛ لا تلمس الفهرس ولا المخططات ولا السكربتات.
-- التزم بـ `AGENTS.md` حرفيًا: لا تخترع أو تصحح أبياتًا بلا دليل، واطلب توضيح المواضع المشكوك فيها.
-- معرّف البيت `id` ثابت ولا يتغير أبدًا؛ `number` فقط هو المتسلسل.
-- بعد أي تعديل: `npm run manifest && npm run check` ثم ارفع.
-- لا تقترح استعادة جسر Telegram المؤرشف ولا أي خادم؛ المسار أعلاه هو المعتمد.
-
-## التعديل والفحص
+## Local validation
 
 ```sh
 npm ci
-# عدّل أو أضف docs/poems/<id>.json مع الحفاظ على معرفات الأبيات
 npm run manifest
 npm run check
 ```
 
-`update-manifest` يقرأ الملفات الفعلية، ويحسب SHA-256 من بايتات كل ملف، ويزيد `catalog_version` فقط عند تغير قائمة المنظومات أو محتواها. لذلك إعادة تشغيله دون تغيير لا تنتج إصدارًا جديدًا.
+`update-manifest` reads the actual poem files, hashes their exact bytes, and increments `catalog_version` only when the catalog changes. Re-running it without a content change is idempotent.
 
-قواعد أساسية:
+## Content rules
 
-- `id` للبيت ثابت؛ `number` هو الذي يتغير عند الإدخال في المنتصف.
-- الأرقام متصلة من 1، و`text` يساوي الشطرين وبينهما سطر جديد واحد.
-- عند تعديل منظومة موجودة ارفع `revision` بمقدار 1.
-- `is_complete=false` أثناء الإضافة الجزئية.
-- لا تعدّل الفهرس يدويًا، ولا تضع تسجيلات شخصية أو أسرارًا هنا.
-- `mahfuzat-demo.json` بيانات اصطناعية للاختبار وليست نصًا علميًا منسوبًا لأحد.
+- A verse `id` is permanent. Only `number` changes when verses are inserted or reordered.
+- Verse numbers are consecutive starting at 1.
+- `text` equals `first_hemistich`, one newline, then `second_hemistich`.
+- Increase `revision` by exactly 1 when changing an existing poem.
+- Use `is_complete=false` during incremental additions.
+- Preserve the original Arabic text and diacritics. Never invent or silently correct verses.
+- Never commit personal recordings, backups, credentials, or user identifiers.
+- `mahfuzat-demo.json` is synthetic test data, not an attributed scientific poem.
 
-## النشر
+## Publishing
 
-ارفع الفرع `main` إلى مستودع عام، ثم اختر **Settings → Pages → Source: GitHub Actions**. ينفذ `.github/workflows/validate-and-publish.yml` التوليد والفحص والاختبارات ونشر `docs/`. سجل Git هو وسيلة الرجوع للإصدارات السابقة.
+Pushes to `main` run `.github/workflows/validate-and-publish.yml`. The workflow regenerates and checks the manifest, runs tests, and publishes `docs/` through GitHub Pages. Git history provides rollback points.
 
-عنوان الاستهلاك:
+Public catalog:
 
 ```text
-https://YOUR-USERNAME.github.io/almahfuzat-content/manifest.json
+https://abdallah0101.github.io/almahfuzat-content/manifest.json
 ```
