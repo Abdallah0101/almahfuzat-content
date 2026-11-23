@@ -1,0 +1,1529 @@
+{
+  "schema_version": 1,
+  "id": "rahbiyya",
+  "title": "متن الرحبية (بغية الباحث عن جمل الموارث)",
+  "author": "موفق الدين أبو عبد الله محمد بن علي الرحبي (ابن المتقنة، ت 577هـ)",
+  "description": "منظومة في علم الفرائض على بحر الرجز. استُوردت آليًا من تصدير لمكتبة شاملة (rayanino/shamela-export-samples على GitHub). النص بلا تشكيل في المصدر، وقد تتضمن مواضع أخطاء مطبعية من رقمنة المصدر. تحتاج مراجعة علمية قبل الاعتماد عليها في الحفظ. is_complete=false إلى حين المراجعة.",
+  "science": "الفرائض",
+  "source": {
+    "name": "مكتبة شاملة (تصدير rayanino/shamela-export-samples)",
+    "url": "https://github.com/rayanino/shamela-export-samples",
+    "notes": "استُورد بسكربت استخراج آلي في 2026-11-23؛ فُصلت الشطور على علامة … الحمراء وأزيلت رؤوس الصفحات."
+  },
+  "is_complete": false,
+  "revision": 1,
+  "chapters": [
+    {
+      "id": "intro",
+      "title": "مقدمة",
+      "number": 1
+    },
+    {
+      "id": "causes",
+      "title": "باب أسباب الميراث",
+      "number": 2
+    },
+    {
+      "id": "preventers",
+      "title": "باب موانع الإرث",
+      "number": 3
+    },
+    {
+      "id": "male-heirs",
+      "title": "باب الوارثين من الرجال",
+      "number": 4
+    },
+    {
+      "id": "female-heirs",
+      "title": "باب الوارثات من النساء",
+      "number": 5
+    },
+    {
+      "id": "chapter-6",
+      "title": "باب الفروض المقدرة في كتاب الله تعلى",
+      "number": 6
+    },
+    {
+      "id": "half",
+      "title": "باب النصف",
+      "number": 7
+    },
+    {
+      "id": "quarter",
+      "title": "باب الربع",
+      "number": 8
+    },
+    {
+      "id": "eighth",
+      "title": "باب الثمن",
+      "number": 9
+    },
+    {
+      "id": "two-thirds",
+      "title": "باب الثلثين",
+      "number": 10
+    },
+    {
+      "id": "third",
+      "title": "باب الثلث",
+      "number": 11
+    },
+    {
+      "id": "sixth",
+      "title": "باب السدس",
+      "number": 12
+    },
+    {
+      "id": "asabah",
+      "title": "باب التعصيب",
+      "number": 13
+    },
+    {
+      "id": "hajb",
+      "title": "باب الحجب",
+      "number": 14
+    },
+    {
+      "id": "shared-cases",
+      "title": "باب المشتركة",
+      "number": 15
+    },
+    {
+      "id": "grandfather-brothers",
+      "title": "باب الجد والاخوة",
+      "number": 16
+    },
+    {
+      "id": "akdariyya",
+      "title": "باب الأكدرية",
+      "number": 17
+    },
+    {
+      "id": "calculation",
+      "title": "باب الحساب",
+      "number": 18
+    },
+    {
+      "id": "shares",
+      "title": "باب السهام",
+      "number": 19
+    },
+    {
+      "id": "munasakha",
+      "title": "باب المناسخة",
+      "number": 20
+    },
+    {
+      "id": "ambiguous-sex",
+      "title": "باب الخنثى المشكل",
+      "number": 21
+    },
+    {
+      "id": "drowning-collapse-fire",
+      "title": "باب الغرقى والهدمي والحرقى",
+      "number": 22
+    }
+  ],
+  "verses": [
+    {
+      "id": "rahbiyya-001",
+      "number": 1,
+      "first_hemistich": "أول ما نستفتح المقالا",
+      "second_hemistich": "بذكر حمد ربنا تعالى",
+      "text": "أول ما نستفتح المقالا\nبذكر حمد ربنا تعالى",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-002",
+      "number": 2,
+      "first_hemistich": "(فالحمد لله) على ماانعما",
+      "second_hemistich": "حمدا ًبه يجلو عن القلب العمى",
+      "text": "(فالحمد لله) على ماانعما\nحمدا ًبه يجلو عن القلب العمى",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-003",
+      "number": 3,
+      "first_hemistich": "ثم الصلاة بعد والسلام",
+      "second_hemistich": "على نبي دينه الاسلام",
+      "text": "ثم الصلاة بعد والسلام\nعلى نبي دينه الاسلام",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-004",
+      "number": 4,
+      "first_hemistich": "(محمد) خاتم رسل ربه",
+      "second_hemistich": "وآله من بعده وصحبه",
+      "text": "(محمد) خاتم رسل ربه\nوآله من بعده وصحبه",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-005",
+      "number": 5,
+      "first_hemistich": "ونسأل الله لنا الاعانه",
+      "second_hemistich": "فيما توخينا من الابانة",
+      "text": "ونسأل الله لنا الاعانه\nفيما توخينا من الابانة",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-006",
+      "number": 6,
+      "first_hemistich": "عن مذهب الامام زيد الفرضي",
+      "second_hemistich": "إذكان ذاك من أهم الغرض",
+      "text": "عن مذهب الامام زيد الفرضي\nإذكان ذاك من أهم الغرض",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-007",
+      "number": 7,
+      "first_hemistich": "علما بان العلم خير ماسمي",
+      "second_hemistich": "فيه وأولى ماله العبد دعى",
+      "text": "علما بان العلم خير ماسمي\nفيه وأولى ماله العبد دعى",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-008",
+      "number": 8,
+      "first_hemistich": "وان هذا العلم مخصوص بما",
+      "second_hemistich": "قد شاع فيه عند كل العلما",
+      "text": "وان هذا العلم مخصوص بما\nقد شاع فيه عند كل العلما",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-009",
+      "number": 9,
+      "first_hemistich": "بأنه اول علم يفقد",
+      "second_hemistich": "في الارض حتى لا يكاد يوجد",
+      "text": "بأنه اول علم يفقد\nفي الارض حتى لا يكاد يوجد",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-010",
+      "number": 10,
+      "first_hemistich": "وأن زيد خص لامحاله",
+      "second_hemistich": "بما حياه خاتم الرساله",
+      "text": "وأن زيد خص لامحاله\nبما حياه خاتم الرساله",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-011",
+      "number": 11,
+      "first_hemistich": "من قوله في فضله منبها",
+      "second_hemistich": "افرضكم زيد وناهيك بها",
+      "text": "من قوله في فضله منبها\nافرضكم زيد وناهيك بها",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-012",
+      "number": 12,
+      "first_hemistich": "فكان أولى باتباع التابعي",
+      "second_hemistich": "لاسيما وقد نحاه الشافعي",
+      "text": "فكان أولى باتباع التابعي\nلاسيما وقد نحاه الشافعي",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-013",
+      "number": 13,
+      "first_hemistich": "فهاك فيه القول إيجاز",
+      "second_hemistich": "مبراً عن وصمة الالغاز",
+      "text": "فهاك فيه القول إيجاز\nمبراً عن وصمة الالغاز",
+      "chapter_id": "intro"
+    },
+    {
+      "id": "rahbiyya-014",
+      "number": 14,
+      "first_hemistich": "أسباب ميراث الورى ثلاثه",
+      "second_hemistich": "كل يفيد ربه الوراثه",
+      "text": "أسباب ميراث الورى ثلاثه\nكل يفيد ربه الوراثه",
+      "chapter_id": "causes"
+    },
+    {
+      "id": "rahbiyya-015",
+      "number": 15,
+      "first_hemistich": "وهي نكاح وولاء ونسب",
+      "second_hemistich": "مابعدهن للمواريث سبب",
+      "text": "وهي نكاح وولاء ونسب\nمابعدهن للمواريث سبب",
+      "chapter_id": "causes"
+    },
+    {
+      "id": "rahbiyya-016",
+      "number": 16,
+      "first_hemistich": "ويمنع الشخص من الميراث",
+      "second_hemistich": "واحدة من علل ثلاث",
+      "text": "ويمنع الشخص من الميراث\nواحدة من علل ثلاث",
+      "chapter_id": "preventers"
+    },
+    {
+      "id": "rahbiyya-017",
+      "number": 17,
+      "first_hemistich": "رق وقتل واختلاف دين",
+      "second_hemistich": "فافهم فليس الشك كاليقين",
+      "text": "رق وقتل واختلاف دين\nفافهم فليس الشك كاليقين",
+      "chapter_id": "preventers"
+    },
+    {
+      "id": "rahbiyya-018",
+      "number": 18,
+      "first_hemistich": "والوارثون من الرجال عشرة",
+      "second_hemistich": "أسماؤهم معروفة مشتهره",
+      "text": "والوارثون من الرجال عشرة\nأسماؤهم معروفة مشتهره",
+      "chapter_id": "male-heirs"
+    },
+    {
+      "id": "rahbiyya-019",
+      "number": 19,
+      "first_hemistich": "الإبن وابن الإبن مهما نزلا",
+      "second_hemistich": "والأب والجد له وإن علا",
+      "text": "الإبن وابن الإبن مهما نزلا\nوالأب والجد له وإن علا",
+      "chapter_id": "male-heirs"
+    },
+    {
+      "id": "rahbiyya-020",
+      "number": 20,
+      "first_hemistich": "والاخ من أى الجهات كانا",
+      "second_hemistich": "قد أنزل الله به القرآنا",
+      "text": "والاخ من أى الجهات كانا\nقد أنزل الله به القرآنا",
+      "chapter_id": "male-heirs"
+    },
+    {
+      "id": "rahbiyya-021",
+      "number": 21,
+      "first_hemistich": "وابن الاخ المدلي إليه بالأب",
+      "second_hemistich": "فاسمع مقالاً ليس بالمكذب",
+      "text": "وابن الاخ المدلي إليه بالأب\nفاسمع مقالاً ليس بالمكذب",
+      "chapter_id": "male-heirs"
+    },
+    {
+      "id": "rahbiyya-022",
+      "number": 22,
+      "first_hemistich": "والعم وابن العم من أبيه",
+      "second_hemistich": "فاشكر لذي الإيجاز والتنبيه",
+      "text": "والعم وابن العم من أبيه\nفاشكر لذي الإيجاز والتنبيه",
+      "chapter_id": "male-heirs"
+    },
+    {
+      "id": "rahbiyya-023",
+      "number": 23,
+      "first_hemistich": "والزوج والمعتق ذو الولاء",
+      "second_hemistich": "فجملة الذكور هؤلاء",
+      "text": "والزوج والمعتق ذو الولاء\nفجملة الذكور هؤلاء",
+      "chapter_id": "male-heirs"
+    },
+    {
+      "id": "rahbiyya-024",
+      "number": 24,
+      "first_hemistich": "والوارثات من النساء سبع",
+      "second_hemistich": "لم يعط أنثى غير هن الشرع",
+      "text": "والوارثات من النساء سبع\nلم يعط أنثى غير هن الشرع",
+      "chapter_id": "female-heirs"
+    },
+    {
+      "id": "rahbiyya-025",
+      "number": 25,
+      "first_hemistich": "بنت وبنت إبن ةأم مشفقه",
+      "second_hemistich": "وزوجة وجدة ومعتقه",
+      "text": "بنت وبنت إبن ةأم مشفقه\nوزوجة وجدة ومعتقه",
+      "chapter_id": "female-heirs"
+    },
+    {
+      "id": "rahbiyya-026",
+      "number": 26,
+      "first_hemistich": "والأ خت من الجهات كانت",
+      "second_hemistich": "فهذه عدتهن بانت",
+      "text": "والأ خت من الجهات كانت\nفهذه عدتهن بانت",
+      "chapter_id": "female-heirs"
+    },
+    {
+      "id": "rahbiyya-027",
+      "number": 27,
+      "first_hemistich": "واعلم بأن الإرث نوعان هما",
+      "second_hemistich": "فرض وتعصيب على ما قسما",
+      "text": "واعلم بأن الإرث نوعان هما\nفرض وتعصيب على ما قسما",
+      "chapter_id": "chapter-6"
+    },
+    {
+      "id": "rahbiyya-028",
+      "number": 28,
+      "first_hemistich": "فالفرض في نص الكتاب سته",
+      "second_hemistich": "لافرض في الإرث سواها البته",
+      "text": "فالفرض في نص الكتاب سته\nلافرض في الإرث سواها البته",
+      "chapter_id": "chapter-6"
+    },
+    {
+      "id": "rahbiyya-029",
+      "number": 29,
+      "first_hemistich": "نصف وربع ثم نصف الربع",
+      "second_hemistich": "والثلث والسدس بنصالشرع",
+      "text": "نصف وربع ثم نصف الربع\nوالثلث والسدس بنصالشرع",
+      "chapter_id": "chapter-6"
+    },
+    {
+      "id": "rahbiyya-030",
+      "number": 30,
+      "first_hemistich": "والثلثان وهما التمام",
+      "second_hemistich": "فاحفظ فكل حافظ إمام",
+      "text": "والثلثان وهما التمام\nفاحفظ فكل حافظ إمام",
+      "chapter_id": "chapter-6"
+    },
+    {
+      "id": "rahbiyya-031",
+      "number": 31,
+      "first_hemistich": "والنصف فرض خمسه أفراد",
+      "second_hemistich": "الزوج والأنثى من الأولاد",
+      "text": "والنصف فرض خمسه أفراد\nالزوج والأنثى من الأولاد",
+      "chapter_id": "half"
+    },
+    {
+      "id": "rahbiyya-032",
+      "number": 32,
+      "first_hemistich": "وبنت الابن عند البنت",
+      "second_hemistich": "والأخت في مذهب كل مفتى",
+      "text": "وبنت الابن عند البنت\nوالأخت في مذهب كل مفتى",
+      "chapter_id": "half"
+    },
+    {
+      "id": "rahbiyya-033",
+      "number": 33,
+      "first_hemistich": "وبعدها الأ خت التي من الأب",
+      "second_hemistich": "عند انفرادهن عن معصب",
+      "text": "وبعدها الأ خت التي من الأب\nعند انفرادهن عن معصب",
+      "chapter_id": "half"
+    },
+    {
+      "id": "rahbiyya-034",
+      "number": 34,
+      "first_hemistich": "والربع فرض الزوج إن كان معه",
+      "second_hemistich": "من ولد الزوجة من قد منعه",
+      "text": "والربع فرض الزوج إن كان معه\nمن ولد الزوجة من قد منعه",
+      "chapter_id": "quarter"
+    },
+    {
+      "id": "rahbiyya-035",
+      "number": 35,
+      "first_hemistich": "وهو لكل زوجهة أوأكثرا",
+      "second_hemistich": "مع عدم الأولاد فيما قدرا",
+      "text": "وهو لكل زوجهة أوأكثرا\nمع عدم الأولاد فيما قدرا",
+      "chapter_id": "quarter"
+    },
+    {
+      "id": "rahbiyya-036",
+      "number": 36,
+      "first_hemistich": "وذكر أولاد البنين يعتمد",
+      "second_hemistich": "حيث اعتمدنا القول في ذكر الولد",
+      "text": "وذكر أولاد البنين يعتمد\nحيث اعتمدنا القول في ذكر الولد",
+      "chapter_id": "quarter"
+    },
+    {
+      "id": "rahbiyya-037",
+      "number": 37,
+      "first_hemistich": "والثمن للزوجة والزوجات",
+      "second_hemistich": "مع البنين أو مع البنات",
+      "text": "والثمن للزوجة والزوجات\nمع البنين أو مع البنات",
+      "chapter_id": "eighth"
+    },
+    {
+      "id": "rahbiyya-038",
+      "number": 38,
+      "first_hemistich": "أو مع أولاد البنين فا علم",
+      "second_hemistich": "ولا تظن الجمع شرطا فافهم",
+      "text": "أو مع أولاد البنين فا علم\nولا تظن الجمع شرطا فافهم",
+      "chapter_id": "eighth"
+    },
+    {
+      "id": "rahbiyya-039",
+      "number": 39,
+      "first_hemistich": "والثلثان للبنات جمعاً",
+      "second_hemistich": "ما زاد عن واحدة فسمعا",
+      "text": "والثلثان للبنات جمعاً\nما زاد عن واحدة فسمعا",
+      "chapter_id": "two-thirds"
+    },
+    {
+      "id": "rahbiyya-040",
+      "number": 40,
+      "first_hemistich": "وهو كذلك لبنات الإبن",
+      "second_hemistich": "فافهم مقالى فهم صافي الذهن",
+      "text": "وهو كذلك لبنات الإبن\nفافهم مقالى فهم صافي الذهن",
+      "chapter_id": "two-thirds"
+    },
+    {
+      "id": "rahbiyya-041",
+      "number": 41,
+      "first_hemistich": "وهو للأختين فما يريد",
+      "second_hemistich": "قضى به الأحرار والعبيد",
+      "text": "وهو للأختين فما يريد\nقضى به الأحرار والعبيد",
+      "chapter_id": "two-thirds"
+    },
+    {
+      "id": "rahbiyya-042",
+      "number": 42,
+      "first_hemistich": "هذا إذاكن لأم وأب",
+      "second_hemistich": "أو لأب فاعمل بهذا تصيب",
+      "text": "هذا إذاكن لأم وأب\nأو لأب فاعمل بهذا تصيب",
+      "chapter_id": "two-thirds"
+    },
+    {
+      "id": "rahbiyya-043",
+      "number": 43,
+      "first_hemistich": "والثلث فرض الأم لاولد",
+      "second_hemistich": "ولا من تلإخوه جمع ذو عدو",
+      "text": "والثلث فرض الأم لاولد\nولا من تلإخوه جمع ذو عدو",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-044",
+      "number": 44,
+      "first_hemistich": "كاثنين أو ثنتين أو ثلاث",
+      "second_hemistich": "حكم الذكور فيه كالإناث",
+      "text": "كاثنين أو ثنتين أو ثلاث\nحكم الذكور فيه كالإناث",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-045",
+      "number": 45,
+      "first_hemistich": "ولا ابن ابن معها أو بنته",
+      "second_hemistich": "ففرضها الثلث كما بينته",
+      "text": "ولا ابن ابن معها أو بنته\nففرضها الثلث كما بينته",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-046",
+      "number": 46,
+      "first_hemistich": "وإن يكن زوج وأم وأب",
+      "second_hemistich": "فثلث الباقي لها مرتب",
+      "text": "وإن يكن زوج وأم وأب\nفثلث الباقي لها مرتب",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-047",
+      "number": 47,
+      "first_hemistich": "وهكذا مع زوجتة فصاعدا",
+      "second_hemistich": "فلا تكن عن العلوم قاصدا",
+      "text": "وهكذا مع زوجتة فصاعدا\nفلا تكن عن العلوم قاصدا",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-048",
+      "number": 48,
+      "first_hemistich": "وهو للإثنين أو ثنتين",
+      "second_hemistich": "من ولد بغير مين",
+      "text": "وهو للإثنين أو ثنتين\nمن ولد بغير مين",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-049",
+      "number": 49,
+      "first_hemistich": "وهكذا إن كثروا أوزادوا",
+      "second_hemistich": "فما لهم فيما سواه زاد",
+      "text": "وهكذا إن كثروا أوزادوا\nفما لهم فيما سواه زاد",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-050",
+      "number": 50,
+      "first_hemistich": "ويستوى الإناث والذكور",
+      "second_hemistich": "فيه كما قد أوضح المسطور",
+      "text": "ويستوى الإناث والذكور\nفيه كما قد أوضح المسطور",
+      "chapter_id": "third"
+    },
+    {
+      "id": "rahbiyya-051",
+      "number": 51,
+      "first_hemistich": "والسدس فرض سبعة من العدد",
+      "second_hemistich": "أب وام ثم بنت ابن وجد",
+      "text": "والسدس فرض سبعة من العدد\nأب وام ثم بنت ابن وجد",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-052",
+      "number": 52,
+      "first_hemistich": "والأخت بنت ثم الجده",
+      "second_hemistich": "وولد الام تمام العده",
+      "text": "والأخت بنت ثم الجده\nوولد الام تمام العده",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-053",
+      "number": 53,
+      "first_hemistich": "فالاب يستحقه مع الولد",
+      "second_hemistich": "وهكذا الأم بتنزيل الصمد",
+      "text": "فالاب يستحقه مع الولد\nوهكذا الأم بتنزيل الصمد",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-054",
+      "number": 54,
+      "first_hemistich": "وهكذا مع ولد الأبن الذي",
+      "second_hemistich": "مازال يقفو إثره ويحتذي",
+      "text": "وهكذا مع ولد الأبن الذي\nمازال يقفو إثره ويحتذي",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-055",
+      "number": 55,
+      "first_hemistich": "والجد مثل الاب عنده فقده",
+      "second_hemistich": "في حوز مايصيبه ومده",
+      "text": "والجد مثل الاب عنده فقده\nفي حوز مايصيبه ومده",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-056",
+      "number": 56,
+      "first_hemistich": "إلإ إذا كان هناك إخوه",
+      "second_hemistich": "لكونهم في القلوب وهو أسوه",
+      "text": "إلإ إذا كان هناك إخوه\nلكونهم في القلوب وهو أسوه",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-057",
+      "number": 57,
+      "first_hemistich": "أو أبوان معهما زوج ورث",
+      "second_hemistich": "فالأم للثلث مع الجد ترث",
+      "text": "أو أبوان معهما زوج ورث\nفالأم للثلث مع الجد ترث",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-058",
+      "number": 58,
+      "first_hemistich": "وهكذا ليس شبيها بالأب",
+      "second_hemistich": "في زوجة الميت وأم وأب",
+      "text": "وهكذا ليس شبيها بالأب\nفي زوجة الميت وأم وأب",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-059",
+      "number": 59,
+      "first_hemistich": "وحكمه وحكمهم سياتى",
+      "second_hemistich": "مكمل البيان في الحالات",
+      "text": "وحكمه وحكمهم سياتى\nمكمل البيان في الحالات",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-060",
+      "number": 60,
+      "first_hemistich": "وبنت الابن تاخذ السدس إذا",
+      "second_hemistich": "كانت مع البنت مثالا يحتذى",
+      "text": "وبنت الابن تاخذ السدس إذا\nكانت مع البنت مثالا يحتذى",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-061",
+      "number": 61,
+      "first_hemistich": "وهكذا الأخت مع الأختالتى",
+      "second_hemistich": "بالأبوين يا أخي أدلت",
+      "text": "وهكذا الأخت مع الأختالتى\nبالأبوين يا أخي أدلت",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-062",
+      "number": 62,
+      "first_hemistich": "والسدس فرض جدة في النسب",
+      "second_hemistich": "واحدة كانت لأم وأب",
+      "text": "والسدس فرض جدة في النسب\nواحدة كانت لأم وأب",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-063",
+      "number": 63,
+      "first_hemistich": "وولد الأم ينال السدسا",
+      "second_hemistich": "والشرط في إفراده لاينسى",
+      "text": "وولد الأم ينال السدسا\nوالشرط في إفراده لاينسى",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-064",
+      "number": 64,
+      "first_hemistich": "وإن تساوى نسب الجدات",
+      "second_hemistich": "وكن كلهن وارثات",
+      "text": "وإن تساوى نسب الجدات\nوكن كلهن وارثات",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-065",
+      "number": 65,
+      "first_hemistich": "فالسدس بينهن بالسويه",
+      "second_hemistich": "في القسمه العادلة الشرعيه",
+      "text": "فالسدس بينهن بالسويه\nفي القسمه العادلة الشرعيه",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-066",
+      "number": 66,
+      "first_hemistich": "وإن تكن قربى لأم حجبت",
+      "second_hemistich": "أم أب بعدى وسدساً سلبت",
+      "text": "وإن تكن قربى لأم حجبت\nأم أب بعدى وسدساً سلبت",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-067",
+      "number": 67,
+      "first_hemistich": "وإن تكن بالعكس فالقولان",
+      "second_hemistich": "في أهل العلم منصوصان",
+      "text": "وإن تكن بالعكس فالقولان\nفي أهل العلم منصوصان",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-068",
+      "number": 68,
+      "first_hemistich": "لا تسقط البعدى على الصحيح",
+      "second_hemistich": "واتفق الجل على التصحيح",
+      "text": "لا تسقط البعدى على الصحيح\nواتفق الجل على التصحيح",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-069",
+      "number": 69,
+      "first_hemistich": "وكل من أدلت بغير وارث",
+      "second_hemistich": "فما لها حظ من الموارث",
+      "text": "وكل من أدلت بغير وارث\nفما لها حظ من الموارث",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-070",
+      "number": 70,
+      "first_hemistich": "وتسقط البعدى بذات القرب",
+      "second_hemistich": "في المذاهب الأولى فقل لى حسبي",
+      "text": "وتسقط البعدى بذات القرب\nفي المذاهب الأولى فقل لى حسبي",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-071",
+      "number": 71,
+      "first_hemistich": "وقدتناهت قسمة الفروض",
+      "second_hemistich": "من غير إشكال ولا غموض",
+      "text": "وقدتناهت قسمة الفروض\nمن غير إشكال ولا غموض",
+      "chapter_id": "sixth"
+    },
+    {
+      "id": "rahbiyya-072",
+      "number": 72,
+      "first_hemistich": "وحق أن نشرع في التعصيب",
+      "second_hemistich": "بكل قول موجز مصيب",
+      "text": "وحق أن نشرع في التعصيب\nبكل قول موجز مصيب",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-073",
+      "number": 73,
+      "first_hemistich": "فكل من أحرز كل المال",
+      "second_hemistich": "من القربات أو الموالى",
+      "text": "فكل من أحرز كل المال\nمن القربات أو الموالى",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-074",
+      "number": 74,
+      "first_hemistich": "أو كان مابفضل بعد الفرض له",
+      "second_hemistich": "فهو أخو العصو بة المفضلة",
+      "text": "أو كان مابفضل بعد الفرض له\nفهو أخو العصو بة المفضلة",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-075",
+      "number": 75,
+      "first_hemistich": "كالأب والجد وجد الجد",
+      "second_hemistich": "والأبن عند قربه والعبد",
+      "text": "كالأب والجد وجد الجد\nوالأبن عند قربه والعبد",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-076",
+      "number": 76,
+      "first_hemistich": "والأخ وابن الأخ والأعمام",
+      "second_hemistich": "والسيد المعتق ذى الأنعام",
+      "text": "والأخ وابن الأخ والأعمام\nوالسيد المعتق ذى الأنعام",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-077",
+      "number": 77,
+      "first_hemistich": "وهكذا بنو هم جميعا ً",
+      "second_hemistich": "فكن لما أذكره سميعاً",
+      "text": "وهكذا بنو هم جميعا ً\nفكن لما أذكره سميعاً",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-078",
+      "number": 78,
+      "first_hemistich": "ومالذى البعدى مع القريب",
+      "second_hemistich": "في الأرث من ولا نصيب",
+      "text": "ومالذى البعدى مع القريب\nفي الأرث من ولا نصيب",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-079",
+      "number": 79,
+      "first_hemistich": "والأخ والعم لام وأب",
+      "second_hemistich": "أولى المدلى بشطر النسب",
+      "text": "والأخ والعم لام وأب\nأولى المدلى بشطر النسب",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-080",
+      "number": 80,
+      "first_hemistich": "والأبن والأخ مع الإناث",
+      "second_hemistich": "يعصبانهن في الميراث",
+      "text": "والأبن والأخ مع الإناث\nيعصبانهن في الميراث",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-081",
+      "number": 81,
+      "first_hemistich": "والأخوات إن تكن بنات",
+      "second_hemistich": "فهن معهن معصبات",
+      "text": "والأخوات إن تكن بنات\nفهن معهن معصبات",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-082",
+      "number": 82,
+      "first_hemistich": "وليس في النساءطراً عصبه",
+      "second_hemistich": "إلا التى منت بعتق الرقبه",
+      "text": "وليس في النساءطراً عصبه\nإلا التى منت بعتق الرقبه",
+      "chapter_id": "asabah"
+    },
+    {
+      "id": "rahbiyya-083",
+      "number": 83,
+      "first_hemistich": "والجد محجوب عن الميراث",
+      "second_hemistich": "بالأب في احواله الثلاث",
+      "text": "والجد محجوب عن الميراث\nبالأب في احواله الثلاث",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-084",
+      "number": 84,
+      "first_hemistich": "وتسقط الجدات من كل جهه",
+      "second_hemistich": "بالأم فافهمه وقس ما أشبهه",
+      "text": "وتسقط الجدات من كل جهه\nبالأم فافهمه وقس ما أشبهه",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-085",
+      "number": 85,
+      "first_hemistich": "وهكذا ابن الابن بالابن فلا",
+      "second_hemistich": "تبغ عن الحكم الصحيح معدلا",
+      "text": "وهكذا ابن الابن بالابن فلا\nتبغ عن الحكم الصحيح معدلا",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-086",
+      "number": 86,
+      "first_hemistich": "وتسقط الاخوة بالبنينا",
+      "second_hemistich": "وبالأب الادنى كما روينا",
+      "text": "وتسقط الاخوة بالبنينا\nوبالأب الادنى كما روينا",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-087",
+      "number": 87,
+      "first_hemistich": "أو ببني البنين كيف كانوا",
+      "second_hemistich": "سيان فيه الجمع والوحدان",
+      "text": "أو ببني البنين كيف كانوا\nسيان فيه الجمع والوحدان",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-088",
+      "number": 88,
+      "first_hemistich": "ويفضل ابن الام بالاسقاط",
+      "second_hemistich": "بالجد فااهمه على احتياط",
+      "text": "ويفضل ابن الام بالاسقاط\nبالجد فااهمه على احتياط",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-089",
+      "number": 89,
+      "first_hemistich": "وبالبنات وبنات الابن",
+      "second_hemistich": "جمعاً ووحداناً فقل لى زدني",
+      "text": "وبالبنات وبنات الابن\nجمعاً ووحداناً فقل لى زدني",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-090",
+      "number": 90,
+      "first_hemistich": "ثم بنات الابن يسقطن متى",
+      "second_hemistich": "حاز البنات الثلثين يافتى",
+      "text": "ثم بنات الابن يسقطن متى\nحاز البنات الثلثين يافتى",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-091",
+      "number": 91,
+      "first_hemistich": "إلا إذا عصبهن الذكر",
+      "second_hemistich": "من ولد الابن على ماذكروا",
+      "text": "إلا إذا عصبهن الذكر\nمن ولد الابن على ماذكروا",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-092",
+      "number": 92,
+      "first_hemistich": "ومثلهن الاخوات اللاتي",
+      "second_hemistich": "يدلين بالقرب من الجهات",
+      "text": "ومثلهن الاخوات اللاتي\nيدلين بالقرب من الجهات",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-093",
+      "number": 93,
+      "first_hemistich": "إذا أخذن فرضهن وافيا",
+      "second_hemistich": "أسقطن أولاد الاب البواكيا",
+      "text": "إذا أخذن فرضهن وافيا\nأسقطن أولاد الاب البواكيا",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-094",
+      "number": 94,
+      "first_hemistich": "وإن يكن أخ لهن حاضرا",
+      "second_hemistich": "عصبهن باطنا وظاهرا",
+      "text": "وإن يكن أخ لهن حاضرا\nعصبهن باطنا وظاهرا",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-095",
+      "number": 95,
+      "first_hemistich": "وليس ابن الأخ بالمعصب",
+      "second_hemistich": "من مثله أو فوقه في النسب",
+      "text": "وليس ابن الأخ بالمعصب\nمن مثله أو فوقه في النسب",
+      "chapter_id": "hajb"
+    },
+    {
+      "id": "rahbiyya-096",
+      "number": 96,
+      "first_hemistich": "وإن تجد زوجاًوأما ورثا",
+      "second_hemistich": "وإخوة للأم حازوا الثلثا",
+      "text": "وإن تجد زوجاًوأما ورثا\nوإخوة للأم حازوا الثلثا",
+      "chapter_id": "shared-cases"
+    },
+    {
+      "id": "rahbiyya-097",
+      "number": 97,
+      "first_hemistich": "وإخوة أيضاً لأم وأب",
+      "second_hemistich": "واستغرقوا المال بفرض النصب",
+      "text": "وإخوة أيضاً لأم وأب\nواستغرقوا المال بفرض النصب",
+      "chapter_id": "shared-cases"
+    },
+    {
+      "id": "rahbiyya-098",
+      "number": 98,
+      "first_hemistich": "فاجعلهم كلهم لأم",
+      "second_hemistich": "واجعل أباهم حجراًفي اليم",
+      "text": "فاجعلهم كلهم لأم\nواجعل أباهم حجراًفي اليم",
+      "chapter_id": "shared-cases"
+    },
+    {
+      "id": "rahbiyya-099",
+      "number": 99,
+      "first_hemistich": "واقسم على اظلخوة ثلث التركه",
+      "second_hemistich": "فهذه المسألة المشتركه",
+      "text": "واقسم على اظلخوة ثلث التركه\nفهذه المسألة المشتركه",
+      "chapter_id": "shared-cases"
+    },
+    {
+      "id": "rahbiyya-100",
+      "number": 100,
+      "first_hemistich": "ونبتدى الآن بما أردنا",
+      "second_hemistich": "في الجد والاخوة إذ وعدنا",
+      "text": "ونبتدى الآن بما أردنا\nفي الجد والاخوة إذ وعدنا",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-101",
+      "number": 101,
+      "first_hemistich": "فالق نحو ما اقول السمعا",
+      "second_hemistich": "واجمع حواشي الكلمات جمعا",
+      "text": "فالق نحو ما اقول السمعا\nواجمع حواشي الكلمات جمعا",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-102",
+      "number": 102,
+      "first_hemistich": "واعلم بان الجد ذو أحوال",
+      "second_hemistich": "أنبيك عنهن على التوالي",
+      "text": "واعلم بان الجد ذو أحوال\nأنبيك عنهن على التوالي",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-103",
+      "number": 103,
+      "first_hemistich": "يقاسم الاخوة فيهن إذا",
+      "second_hemistich": "لم يعد القسم عليه بالاذى",
+      "text": "يقاسم الاخوة فيهن إذا\nلم يعد القسم عليه بالاذى",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-104",
+      "number": 104,
+      "first_hemistich": "فتارة ياخذ ثلثا كاملا",
+      "second_hemistich": "إن كان بالقسمة عنه نازلا",
+      "text": "فتارة ياخذ ثلثا كاملا\nإن كان بالقسمة عنه نازلا",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-105",
+      "number": 105,
+      "first_hemistich": "إن يكن هناك ذو سهام",
+      "second_hemistich": "فاقتنع بإيضاحي عن استفهام",
+      "text": "إن يكن هناك ذو سهام\nفاقتنع بإيضاحي عن استفهام",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-106",
+      "number": 106,
+      "first_hemistich": "وتارة ياخذ ثلث الباقي",
+      "second_hemistich": "بعد ذوى الفروض والارزاق",
+      "text": "وتارة ياخذ ثلث الباقي\nبعد ذوى الفروض والارزاق",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-107",
+      "number": 107,
+      "first_hemistich": "هذا غذا ماكنت المقسمه",
+      "second_hemistich": "تنقصه عن ذلك بالمزاحمه",
+      "text": "هذا غذا ماكنت المقسمه\nتنقصه عن ذلك بالمزاحمه",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-108",
+      "number": 108,
+      "first_hemistich": "وتارة بأخذ سدس المال",
+      "second_hemistich": "وليس عنه نازلا بحال",
+      "text": "وتارة بأخذ سدس المال\nوليس عنه نازلا بحال",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-109",
+      "number": 109,
+      "first_hemistich": "وهو مع الا ناث عند القسم",
+      "second_hemistich": "مثل أخ في سهمه والحكم",
+      "text": "وهو مع الا ناث عند القسم\nمثل أخ في سهمه والحكم",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-110",
+      "number": 110,
+      "first_hemistich": "إلا مع الام فلايحجبها",
+      "second_hemistich": "بل ثلث المال لها يصحبها",
+      "text": "إلا مع الام فلايحجبها\nبل ثلث المال لها يصحبها",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-111",
+      "number": 111,
+      "first_hemistich": "واحسب بني الاب لدى الاعداد",
+      "second_hemistich": "وارفض بني الام مع الاجداد",
+      "text": "واحسب بني الاب لدى الاعداد\nوارفض بني الام مع الاجداد",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-112",
+      "number": 112,
+      "first_hemistich": "واحكم على الاخوة بعد العد",
+      "second_hemistich": "حكمك فيهم عند فقد الجد",
+      "text": "واحكم على الاخوة بعد العد\nحكمك فيهم عند فقد الجد",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-113",
+      "number": 113,
+      "first_hemistich": "واسقط بني الاخوة بالاجداد",
+      "second_hemistich": "حكماًبعدل ظاهر الارشاد",
+      "text": "واسقط بني الاخوة بالاجداد\nحكماًبعدل ظاهر الارشاد",
+      "chapter_id": "grandfather-brothers"
+    },
+    {
+      "id": "rahbiyya-114",
+      "number": 114,
+      "first_hemistich": "والاخت لافرض مع الجد لها",
+      "second_hemistich": "فيما عدا مسألة كملها",
+      "text": "والاخت لافرض مع الجد لها\nفيما عدا مسألة كملها",
+      "chapter_id": "akdariyya"
+    },
+    {
+      "id": "rahbiyya-115",
+      "number": 115,
+      "first_hemistich": "زوج وأم وهما تمامها",
+      "second_hemistich": "فعلم فخير أمة علامها",
+      "text": "زوج وأم وهما تمامها\nفعلم فخير أمة علامها",
+      "chapter_id": "akdariyya"
+    },
+    {
+      "id": "rahbiyya-116",
+      "number": 116,
+      "first_hemistich": "تعرف ياصاح بالاكدرية",
+      "second_hemistich": "وهي بأن تعرفها حريه",
+      "text": "تعرف ياصاح بالاكدرية\nوهي بأن تعرفها حريه",
+      "chapter_id": "akdariyya"
+    },
+    {
+      "id": "rahbiyya-117",
+      "number": 117,
+      "first_hemistich": "فيفرض النصف لها والسدس له",
+      "second_hemistich": "حتي تعول بالفروض المجمله",
+      "text": "فيفرض النصف لها والسدس له\nحتي تعول بالفروض المجمله",
+      "chapter_id": "akdariyya"
+    },
+    {
+      "id": "rahbiyya-118",
+      "number": 118,
+      "first_hemistich": "ثم يعودان إلى المقاسمه",
+      "second_hemistich": "كمامضى فاحفظه واشكر ناظمه",
+      "text": "ثم يعودان إلى المقاسمه\nكمامضى فاحفظه واشكر ناظمه",
+      "chapter_id": "akdariyya"
+    },
+    {
+      "id": "rahbiyya-119",
+      "number": 119,
+      "first_hemistich": "وإن يرد معرفة الحساب",
+      "second_hemistich": "لتهدي به إلى الصواب",
+      "text": "وإن يرد معرفة الحساب\nلتهدي به إلى الصواب",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-120",
+      "number": 120,
+      "first_hemistich": "وتعرف القسمه والتفصيلا",
+      "second_hemistich": "وتعلم التصحيح والتأصيلا",
+      "text": "وتعرف القسمه والتفصيلا\nوتعلم التصحيح والتأصيلا",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-121",
+      "number": 121,
+      "first_hemistich": "فاستخرج الاصول في المسائل",
+      "second_hemistich": "ولاتكن عن حفظها بذاهل",
+      "text": "فاستخرج الاصول في المسائل\nولاتكن عن حفظها بذاهل",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-122",
+      "number": 122,
+      "first_hemistich": "فإنهن سبع أصول",
+      "second_hemistich": "ثلاثه منهن قد تعول",
+      "text": "فإنهن سبع أصول\nثلاثه منهن قد تعول",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-123",
+      "number": 123,
+      "first_hemistich": "وبعدها أربعة تمام",
+      "second_hemistich": "لاعول يعوها ولا انثلام",
+      "text": "وبعدها أربعة تمام\nلاعول يعوها ولا انثلام",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-124",
+      "number": 124,
+      "first_hemistich": "فالسدس من سته أسهم يرى",
+      "second_hemistich": "والثلث والربع من اثني عشرا",
+      "text": "فالسدس من سته أسهم يرى\nوالثلث والربع من اثني عشرا",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-125",
+      "number": 125,
+      "first_hemistich": "والثمن إن ضم إليه السدس",
+      "second_hemistich": "فأصله الصادق فيه الحدس",
+      "text": "والثمن إن ضم إليه السدس\nفأصله الصادق فيه الحدس",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-126",
+      "number": 126,
+      "first_hemistich": "أربعة يتبعها عشرونا",
+      "second_hemistich": "يعرفها الحساب أجمونا",
+      "text": "أربعة يتبعها عشرونا\nيعرفها الحساب أجمونا",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-127",
+      "number": 127,
+      "first_hemistich": "فهذة الثلاثه الاصول",
+      "second_hemistich": "إن كثرت فروعها تعول",
+      "text": "فهذة الثلاثه الاصول\nإن كثرت فروعها تعول",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-128",
+      "number": 128,
+      "first_hemistich": "فتبلغ الستة عقد العشره",
+      "second_hemistich": "في صوره معروفه مشتهره",
+      "text": "فتبلغ الستة عقد العشره\nفي صوره معروفه مشتهره",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-129",
+      "number": 129,
+      "first_hemistich": "وتلحق التي تليها بالاثر",
+      "second_hemistich": "في العول إفراد إلى سبع عشر",
+      "text": "وتلحق التي تليها بالاثر\nفي العول إفراد إلى سبع عشر",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-130",
+      "number": 130,
+      "first_hemistich": "والعدد الثالث قد يعول",
+      "second_hemistich": "بثمنه فاعمل بما أقول",
+      "text": "والعدد الثالث قد يعول\nبثمنه فاعمل بما أقول",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-131",
+      "number": 131,
+      "first_hemistich": "والنصف والباقى او النصفان",
+      "second_hemistich": "أصلهما في حكمهم إثنان",
+      "text": "والنصف والباقى او النصفان\nأصلهما في حكمهم إثنان",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-132",
+      "number": 132,
+      "first_hemistich": "والثلث من الثلاثه يكون",
+      "second_hemistich": "والربع من أربعة مسنون",
+      "text": "والثلث من الثلاثه يكون\nوالربع من أربعة مسنون",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-133",
+      "number": 133,
+      "first_hemistich": "والثمن إن كان فمن ثمانيه",
+      "second_hemistich": "فهذه هي الاصول الثانيه",
+      "text": "والثمن إن كان فمن ثمانيه\nفهذه هي الاصول الثانيه",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-134",
+      "number": 134,
+      "first_hemistich": "لايدخل العول عليها فاعلم",
+      "second_hemistich": "ثم اسلك التصحيح فيها واقسم",
+      "text": "لايدخل العول عليها فاعلم\nثم اسلك التصحيح فيها واقسم",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-135",
+      "number": 135,
+      "first_hemistich": "وإن تكن من أصلها تصح",
+      "second_hemistich": "فترك تطويل الحساب ربح",
+      "text": "وإن تكن من أصلها تصح\nفترك تطويل الحساب ربح",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-136",
+      "number": 136,
+      "first_hemistich": "فأعط كلا سهمه من أصلها",
+      "second_hemistich": "مكملا اوعائلا من عوالها",
+      "text": "فأعط كلا سهمه من أصلها\nمكملا اوعائلا من عوالها",
+      "chapter_id": "calculation"
+    },
+    {
+      "id": "rahbiyya-137",
+      "number": 137,
+      "first_hemistich": "وان تر السهام ليست تنقسم",
+      "second_hemistich": "على ذوي الميراث فاتبع مارسم",
+      "text": "وان تر السهام ليست تنقسم\nعلى ذوي الميراث فاتبع مارسم",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-138",
+      "number": 138,
+      "first_hemistich": "واطلب طريق الاختصار في العمل",
+      "second_hemistich": "بالوفق والضرب يجانبك الزلل",
+      "text": "واطلب طريق الاختصار في العمل\nبالوفق والضرب يجانبك الزلل",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-139",
+      "number": 139,
+      "first_hemistich": "واردد إإلى الوفق الذى يوافق",
+      "second_hemistich": "واضربه في الاصل فانت الحاذق",
+      "text": "واردد إإلى الوفق الذى يوافق\nواضربه في الاصل فانت الحاذق",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-140",
+      "number": 140,
+      "first_hemistich": "ان كان جنسا واحدا اواكثر",
+      "second_hemistich": "فاتبع سبيل الحق واطرح المرا",
+      "text": "ان كان جنسا واحدا اواكثر\nفاتبع سبيل الحق واطرح المرا",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-141",
+      "number": 141,
+      "first_hemistich": "وإن تر الكسر على أجناس",
+      "second_hemistich": "فإنها في الحكم عند الناس",
+      "text": "وإن تر الكسر على أجناس\nفإنها في الحكم عند الناس",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-142",
+      "number": 142,
+      "first_hemistich": "تحصر في اربعه أقسام",
+      "second_hemistich": "يعرفها الماهر في الاحكام",
+      "text": "تحصر في اربعه أقسام\nيعرفها الماهر في الاحكام",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-143",
+      "number": 143,
+      "first_hemistich": "مماثل من بعده مناسب",
+      "second_hemistich": "وبعده موافق مصاحب",
+      "text": "مماثل من بعده مناسب\nوبعده موافق مصاحب",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-144",
+      "number": 144,
+      "first_hemistich": "والرابع المباين المخالف",
+      "second_hemistich": "ينبيك عن تفصيلهن العارف",
+      "text": "والرابع المباين المخالف\nينبيك عن تفصيلهن العارف",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-145",
+      "number": 145,
+      "first_hemistich": "فخذ من المماثلين واحد",
+      "second_hemistich": "وخذ من المناسبين الزائدا",
+      "text": "فخذ من المماثلين واحد\nوخذ من المناسبين الزائدا",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-146",
+      "number": 146,
+      "first_hemistich": "واضرب جميع الوفق في الموافق",
+      "second_hemistich": "واسلك بذاك أنهج الطرائق",
+      "text": "واضرب جميع الوفق في الموافق\nواسلك بذاك أنهج الطرائق",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-147",
+      "number": 147,
+      "first_hemistich": "وخذ جميع العدد المباين",
+      "second_hemistich": "واضرب في الثاني ولا تداهن",
+      "text": "وخذ جميع العدد المباين\nواضرب في الثاني ولا تداهن",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-148",
+      "number": 148,
+      "first_hemistich": "واضربه في الاصل الذي تأصلا",
+      "second_hemistich": "وأحص ما انضم وما تحصلا",
+      "text": "واضربه في الاصل الذي تأصلا\nوأحص ما انضم وما تحصلا",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-149",
+      "number": 149,
+      "first_hemistich": "واقسمه فالقسم إذا صحيح",
+      "second_hemistich": "يعرف الاعجم والفصيح",
+      "text": "واقسمه فالقسم إذا صحيح\nيعرف الاعجم والفصيح",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-150",
+      "number": 150,
+      "first_hemistich": "فذاك جزء السهم فاحفظنه",
+      "second_hemistich": "واحذر هديت أن تزيغ عنه",
+      "text": "فذاك جزء السهم فاحفظنه\nواحذر هديت أن تزيغ عنه",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-151",
+      "number": 151,
+      "first_hemistich": "فهذه من الحساب جمل",
+      "second_hemistich": "يأتي علي مثالهن العمل",
+      "text": "فهذه من الحساب جمل\nيأتي علي مثالهن العمل",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-152",
+      "number": 152,
+      "first_hemistich": "من غير تطويل ولا اعتساف",
+      "second_hemistich": "فاقنع بما بين فهو كاف",
+      "text": "من غير تطويل ولا اعتساف\nفاقنع بما بين فهو كاف",
+      "chapter_id": "shares"
+    },
+    {
+      "id": "rahbiyya-153",
+      "number": 153,
+      "first_hemistich": "وإن يمت آخر قبل القسمه",
+      "second_hemistich": "فصحح الحساب واعرف سهمه",
+      "text": "وإن يمت آخر قبل القسمه\nفصحح الحساب واعرف سهمه",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-154",
+      "number": 154,
+      "first_hemistich": "واجعل له مسألة أخرى كما",
+      "second_hemistich": "قد بين التفصيل فيم قدما",
+      "text": "واجعل له مسألة أخرى كما\nقد بين التفصيل فيم قدما",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-155",
+      "number": 155,
+      "first_hemistich": "وإن تكن ليست عليها تنقسم",
+      "second_hemistich": "فارجع إلى الوفق بهذا قد حكم",
+      "text": "وإن تكن ليست عليها تنقسم\nفارجع إلى الوفق بهذا قد حكم",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-156",
+      "number": 156,
+      "first_hemistich": "وانظر فإن وافقت السهاما",
+      "second_hemistich": "فخذ هديت وفقها تماما",
+      "text": "وانظر فإن وافقت السهاما\nفخذ هديت وفقها تماما",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-157",
+      "number": 157,
+      "first_hemistich": "وكل سهم في جميع الثانيه",
+      "second_hemistich": "يضرب أو في وفقها علانيه",
+      "text": "وكل سهم في جميع الثانيه\nيضرب أو في وفقها علانيه",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-158",
+      "number": 158,
+      "first_hemistich": "وأسهم الاخرى ففي السهام",
+      "second_hemistich": "تضرب أو في وفقها تمام",
+      "text": "وأسهم الاخرى ففي السهام\nتضرب أو في وفقها تمام",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-159",
+      "number": 159,
+      "first_hemistich": "واضربه أو جميعا في السابقه",
+      "second_hemistich": "إن لم تكن بينهما موافقه",
+      "text": "واضربه أو جميعا في السابقه\nإن لم تكن بينهما موافقه",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-160",
+      "number": 160,
+      "first_hemistich": "فهذه طريقه المناسخه",
+      "second_hemistich": "فارق بها رتبة فضل شامخه",
+      "text": "فهذه طريقه المناسخه\nفارق بها رتبة فضل شامخه",
+      "chapter_id": "munasakha"
+    },
+    {
+      "id": "rahbiyya-161",
+      "number": 161,
+      "first_hemistich": "وإن يكن في مستحق المال",
+      "second_hemistich": "خنثى صحيح بين الاشكال",
+      "text": "وإن يكن في مستحق المال\nخنثى صحيح بين الاشكال",
+      "chapter_id": "ambiguous-sex"
+    },
+    {
+      "id": "rahbiyya-162",
+      "number": 162,
+      "first_hemistich": "فاقسم على الاقل واليقين",
+      "second_hemistich": "تحظ بحق القسمة والتبيين",
+      "text": "فاقسم على الاقل واليقين\nتحظ بحق القسمة والتبيين",
+      "chapter_id": "ambiguous-sex"
+    },
+    {
+      "id": "rahbiyya-163",
+      "number": 163,
+      "first_hemistich": "واحكم على المفقود حكم الخنثى",
+      "second_hemistich": "إن ذكرا يكون أوهو أنثى",
+      "text": "واحكم على المفقود حكم الخنثى\nإن ذكرا يكون أوهو أنثى",
+      "chapter_id": "ambiguous-sex"
+    },
+    {
+      "id": "rahbiyya-164",
+      "number": 164,
+      "first_hemistich": "وهكذا حكم ذوات الحمل",
+      "second_hemistich": "فابن على اليقين والاقل",
+      "text": "وهكذا حكم ذوات الحمل\nفابن على اليقين والاقل",
+      "chapter_id": "ambiguous-sex"
+    },
+    {
+      "id": "rahbiyya-165",
+      "number": 165,
+      "first_hemistich": "وإن يمت قوم بهدم أو غرق",
+      "second_hemistich": "أو حادث عم الجميع كالحرق",
+      "text": "وإن يمت قوم بهدم أو غرق\nأو حادث عم الجميع كالحرق",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-166",
+      "number": 166,
+      "first_hemistich": "ولم يكن يعلم حال السابق",
+      "second_hemistich": "فلا تورث زاهقا من زاهق",
+      "text": "ولم يكن يعلم حال السابق\nفلا تورث زاهقا من زاهق",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-167",
+      "number": 167,
+      "first_hemistich": "وعدهم كأنهم أجانب",
+      "second_hemistich": "فهكذا القول السديد الصائب",
+      "text": "وعدهم كأنهم أجانب\nفهكذا القول السديد الصائب",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-168",
+      "number": 168,
+      "first_hemistich": "وقد أتى القول على ما شئنا",
+      "second_hemistich": "من قسمه الميراث إذ بينا",
+      "text": "وقد أتى القول على ما شئنا\nمن قسمه الميراث إذ بينا",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-169",
+      "number": 169,
+      "first_hemistich": "على طريق الرمز والاشاره",
+      "second_hemistich": "مخلصا باوجز العباره",
+      "text": "على طريق الرمز والاشاره\nمخلصا باوجز العباره",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-170",
+      "number": 170,
+      "first_hemistich": "فالحمد لله على التمام",
+      "second_hemistich": "حمدا كثيرا تم في الدوام",
+      "text": "فالحمد لله على التمام\nحمدا كثيرا تم في الدوام",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-171",
+      "number": 171,
+      "first_hemistich": "أسأله العفو عن التقصير",
+      "second_hemistich": "وخير ماتأمل في المصير",
+      "text": "أسأله العفو عن التقصير\nوخير ماتأمل في المصير",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-172",
+      "number": 172,
+      "first_hemistich": "وغفر ماكان من الذنوب",
+      "second_hemistich": "وستر ماشان من العيوب",
+      "text": "وغفر ماكان من الذنوب\nوستر ماشان من العيوب",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-173",
+      "number": 173,
+      "first_hemistich": "وأفضل الصلاة والتسليم",
+      "second_hemistich": "عى النبي المصطفى الكريم",
+      "text": "وأفضل الصلاة والتسليم\nعى النبي المصطفى الكريم",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-174",
+      "number": 174,
+      "first_hemistich": "(محمد) خير الانام العاقب",
+      "second_hemistich": "وآله الغر ذوى المناقب",
+      "text": "(محمد) خير الانام العاقب\nوآله الغر ذوى المناقب",
+      "chapter_id": "drowning-collapse-fire"
+    },
+    {
+      "id": "rahbiyya-175",
+      "number": 175,
+      "first_hemistich": "وصحبه الاماجد الابرار",
+      "second_hemistich": "الصفوة الاكابر الاخيار",
+      "text": "وصحبه الاماجد الابرار\nالصفوة الاكابر الاخيار",
+      "chapter_id": "drowning-collapse-fire"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
-  "updated_at": "2026-11-23T02:21:14.636Z",
+  "catalog_version": 2,
+  "updated_at": "2026-11-23T05:29:32.485Z",
   "poems": [
     {
       "id": "mahfuzat-demo",
@@ -12,6 +12,17 @@
       "path": "poems/mahfuzat-demo.json",
       "revision": 1,
       "sha256": "dc0c6528378f741db3a66e33c48135c9150134a21244cec78a6889334e1ce37a",
+      "is_complete": false
+    },
+    {
+      "id": "rahbiyya",
+      "title": "متن الرحبية (بغية الباحث عن جمل الموارث)",
+      "author": "موفق الدين أبو عبد الله محمد بن علي الرحبي (ابن المتقنة، ت 577هـ)",
+      "science": "الفرائض",
+      "verse_count": 175,
+      "path": "poems/rahbiyya.json",
+      "revision": 1,
+      "sha256": "1c4553226f1f2140dd991c60e4e7f93a149b17d7f2b01af0e6636f1fbdb51a11",
       "is_complete": false
     }
   ]
