@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "catalog_version": 5,
-  "updated_at": "2026-11-23T21:53:31.663Z",
+  "catalog_version": 6,
+  "updated_at": "2026-11-24T01:19:08.895Z",
   "poems": [
     {
       "id": "alfiyya-ibn-malik",
@@ -12,17 +12,6 @@
       "path": "poems/alfiyya-ibn-malik.json",
       "revision": 1,
       "sha256": "f26e5bdd63253219b426946d19d45e8c11fe5f2f1b7b172f90c0c019d279ac63",
-      "is_complete": false
-    },
-    {
-      "id": "mahfuzat-demo",
-      "title": "نموذج المحفوظات التجريبي",
-      "author": "نص اختباري غير علمي",
-      "science": "اختبار",
-      "verse_count": 10,
-      "path": "poems/mahfuzat-demo.json",
-      "revision": 1,
-      "sha256": "dc0c6528378f741db3a66e33c48135c9150134a21244cec78a6889334e1ce37a",
       "is_complete": false
     },
     {
